@@ -1,0 +1,148 @@
+<style>
+  body {
+    font-family: Arial;
+  }
+</style>
+<div background="#fff">
+<input type='range' id='r-slider' min='0' max='1' step='0.01' default='0.5'><label for='r-slider'> R: 0.5</label><br/>
+<input type='range' id='g-slider' min='0' max='1' step='0.01' default='0.5'><label for='g-slider'> G: 0.5</label><br/>
+<input type='range' id='b-slider' min='0' max='1' step='0.01' default='0.5'><label for='b-slider'> B: 0.5</label><br/>
+</div>
+
+<script>
+  const h = 150;
+  let $ = document.querySelector.bind(document);
+  let rgb = [[0.0008859264259196761, 0.0008859264259196761, 0.0021937225784677697, 0.003965575430307121, 0.010124873439082013, 0.018941950725615934, 0.022443469456631795, 0.022907526155923057, 0.009703003712453596, 0.012782652716841042, 0.009703003712453596, 0.011432669591630109, 0.014512318596017555, 0.01539824502193723, 0.018477894026324677, 0.01674822814714817, 0.011432669591630112, 0.01189672629092137, 0.02906682416469795, 0.5277590280121499, 0.17313533580830245, 0.7039740128248398, 0.40309652379345257, 1.0, 0.14537630779615238, 0.16166047924400925, 0.06914444819439737, 0.13082180222747197, 0.10441275734053304, 0.08631454606817394, 0.12732028349645608], [0.0010484011881880132, 0.0010484011881880132, 0.0028394198846758687, 0.0037567709243403803, 0.00926087716232745, 0.014721300017473352, 0.017473353136466887, 0.02018172287261925, 0.01563865105713786, 0.049842739821771787, 0.1739035470906867, 0.47361523676393497, 0.8919273108509522, 1.0, 0.7500436833828413, 0.5037130875414995, 0.31120041936047554, 0.1803250043683386, 0.10230648261401394, 0.07081076358553237, 0.03844137690022746, 0.049842739821772106, 0.03844137690022746, 0.03341778787349324, 0.03752402586056296, 0.017910186964878876, 0.014240782806220828, 0.019264371832955058, 0.006945657871745902, 0.010178228201992276, 0.021579591123536922], [0.00947774874215063, 0.06322399469558095, 0.2477475720581926, 0.53445922227856, 0.8203908108740591, 1.0, 0.9494910097897734, 0.7279145052459145, 0.47053317212059753, 0.2994656577869652, 0.17972619836967121, 0.1076485042318343, 0.06813838293225163, 0.044112484886306, 0.030656421857326706, 0.0225047778774523, 0.015991263309801454, 0.013144038379031922, 0.013963103085143706, 0.02617106751433361, 0.011115878154374172, 0.02699013222044539, 0.024142907289675858, 0.02371387339599826, 0.03432271149420802, 0.015991263309801454, 0.014782167791255485, 0.02004758375911695, 0.007839619329927045, 0.011505908966808358, 0.02129568235890634]];
+
+  let handleSlider = (e) => {
+    let label = ' ' + e.target.id.substr(0, 1).toUpperCase() + ': ' + (Math.round(e.target.value * 100) / 100.0);
+    $('[for=' + e.target.id + ']').innerHTML = label;
+    updateColor();
+    updateGraph();
+  };
+
+  let getWeights = () => {
+    return {r: $('#r-slider').value, 
+            g: $('#g-slider').value, 
+            b: $('#b-slider').value};
+  }
+
+
+  let updateColor = () => {
+    var w = getWeights();
+    $('#r-circle').style.fill = "rgb(" + (w.r * 255) + ", 0, 0)";
+    $('#g-circle').style.fill = "rgb(0, " + (w.g * 255) + ", 0)";
+    $('#b-circle').style.fill = "rgb(0, 0, " + (w.b * 255) + ")";
+  }
+
+  let updateGraph = () => {
+    var w = getWeights();
+    $('#r-line').setAttribute('transform', "scale(200, " + Math.round(w.r * h) + ')');
+    $('#g-line').setAttribute('transform', "scale(200, " + Math.round(w.g * h) + ')');
+    $('#b-line').setAttribute('transform', "scale(200, " + Math.round(w.b * h) + ')');
+
+    $('#sum-line').setAttribute('transform', "scale(200, " + h + ")");
+    var theSum = rgb[0].map((k, i) => [w.r * rgb[0][i] + w.g * rgb[1][i] + w.b * rgb[2][i]]);
+    $('#sum-line').setAttribute('points', constructData(theSum));
+  }
+
+  let constructData = (a) => {
+    var str = ""
+    for(var i = 0; i < a.length; i++) {
+      str += (i / (a.length - 1)).toString() + "," + a[i].toString() + ' ';
+    }
+    return str;
+  }
+
+  let setupGraph = () => {
+    console.log(constructData(rgb[0]))
+    $('#r-line').setAttribute('points', constructData(rgb[0]));
+    $('#g-line').setAttribute('points', constructData(rgb[1]));
+    $('#b-line').setAttribute('points', constructData(rgb[2]));
+  }
+
+  $('#r-slider').oninput = handleSlider;
+  $('#g-slider').oninput = handleSlider;
+  $('#b-slider').oninput = handleSlider;
+
+  setupGraph();
+  updateGraph();
+</script>
+
+<style>
+circle { mix-blend-mode: lighten; }  
+.isolate { isolation: isolate; } /* Without isolation, the background color will be taken into account */
+svg {
+  padding: 20px;
+  width: 400px;
+  height: 280px;
+}
+</style>
+
+<div background='#000'>
+<svg>
+  <defs>
+  		<linearGradient id="rainbow">
+				<stop  offset="0" style="stop-color:#4C34A3"/>
+				<stop  offset="0.1067" style="stop-color:#5380AD"/>
+				<stop  offset="0.2528" style="stop-color:#2A8EB0"/>
+				<stop  offset="0.3146" style="stop-color:#4EABAE"/>
+				<stop  offset="0.3652" style="stop-color:#4CBF35"/>
+				<stop  offset="0.5056" style="stop-color:#EEF059"/>
+				<stop  offset="0.5899" style="stop-color:#F2CA61"/>
+				<stop  offset="0.6348" style="stop-color:#E48D3C"/>
+				<stop  offset="0.8034" style="stop-color:#FF5B45"/>
+				<stop  offset="1" style="stop-color:#BF2626"/>
+			</linearGradient>
+      <clipPath id="cut-off-bottom">
+        <rect x="0" y="0" width="200" height="100" />
+      </clipPath>
+  </defs>
+
+  <rect fill='#000' height="160" width="160"/>
+  <g class="isolate" transform="translate(20, 20)">
+    <circle id='r-circle' cx="40" cy="40" r="40" fill="#800"/>
+    <circle id='g-circle' cx="80" cy="40" r="40" fill="#080"/>
+    <circle id='b-circle' cx="60" cy="80" r="40" fill="#008"/>
+  </g>
+
+  <g id="vectors" transform="matrix(1 0 0 -1 210 160)">
+    <polyline points="0, 200 0, 0 200,0" fill="none" stroke="#999" stroke-width="1"/>
+    <polyline
+      id='r-line'
+      fill="none"
+      stroke="#f00"
+      stroke-width="3"
+      vector-effect="non-scaling-stroke"
+      clip-path="url(#cut-off-bottom)" />
+
+    <polyline
+      id='g-line'
+      fill="none"
+      stroke="#0f0"
+      stroke-width="3"
+      vector-effect="non-scaling-stroke"
+      clip-path="url(#cut-off-bottom)" />
+
+    <polyline
+      id='b-line'
+      fill="none"
+      stroke="#00f"
+      stroke-width="3"
+      vector-effect="non-scaling-stroke"
+      clip-path="url(#cut-off-bottom)" />    
+    <polyline
+      id='sum-line'
+      fill="none"
+      stroke="#333"
+      stroke-width="3" 
+      vector-effect="non-scaling-stroke" 
+      clip-path="url(#cut-off-bottom)" />
+    <text transform="scale(1,-1)" y="20">400nm</text>
+    <text transform="scale(1,-1)" y="20" x="99">λ</text>
+    <text transform="scale(1,-1)" y="20" x="150">700nm</text>
+    <text transform="scale(1,-1)" y="-150" x="-30">I(λ)</text>
+    <rect y="-60" width="200" height="20" fill='url(#rainbow)'/>
+    </g>
+</svg>
+</div>
