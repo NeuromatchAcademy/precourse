@@ -22,7 +22,7 @@ Computational neuroscience and neural data analysis relies on linear algebra, ba
 
 **Calculus**: Finally, basic calculus is crucial; you should know what integrals and derivatives are, and understand what a differential equation means. If you need to refresh your memory on differential/integral calculus, here is a good resource: https://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf. For differential equations, we recommend studying chapter 0-1 (including exercises!) of Jiri Lebl’s book ["Differential equations for engineers"](https://www.jirka.org/diffyqs/)
 
-#### Neuroscience
+### Neuroscience
 
 If you’re coming from outside neuroscience, it’ll be great to familiarize yourself with fundamental concepts. Here is a [short read on the subject](https://www.bna.org.uk/static/uploads/resources/BNA_English.pdf). Here is another resource from [the Society For Neuroscience](https://www.brainfacts.org/the-brain-facts-book).
 
