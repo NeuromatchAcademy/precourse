@@ -20,7 +20,7 @@ Computational neuroscience and neural data analysis relies on linear algebra, ba
 
 **Statistics:** Understanding statistics is also important; you should be comfortable with means and variances, and the normal distribution. For a refresher, we recommend selective readings (i.e. chapters 6-7 from [Russ Poldrack's book "Statistical thinking of the 21st century"](https://statsthinking21.github.io/statsthinking21-core-site/).
 
-**Calculus:** Finally, basic calculus is crucial; you should know what integrals and derivatives are, and understand what a differential equation means. If you need to refresh your memory on differential and integral calculus, [Gilbert Strang's book](https://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf) is a good refreshment book. For differential equations, we recommend studying chapter 0-1 (including exercises!) of Jiri Lebl's book ["Differential equations for engineers"](https://www.jirka.org/diffyqs/)
+**Calculus:** Finally, basic calculus is crucial; you should know what integrals and derivatives are, and understand what a differential equation means. If you need to refresh your memory on differential and integral calculus, [Gilbert Strang's book](https://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf) is a good refreshment book. For differential equations, we recommend studying chapter 0-1 (including exercises!) of Jiri Lebl's book ["Differential equations for engineers"](https://www.jirka.org/diffyqs/).
 
 ### Neuroscience
 
