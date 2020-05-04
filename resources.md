@@ -13,6 +13,8 @@ This is a selection of resources that we thought would be useful sharing with th
 * [No BS guide to Linear Algebra](http://minireference.com/static/tutorials/linear_algebra_in_4_pages.pdf)
 * [Khan Academy - Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
 * [Gilbert Starng's Linear Algebra lectures](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
+* [Three Blue One Brown youtube lectures](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+
 
 ### Statistics
 * [Statistical thinking for the 21st century (2019)](https://statsthinking21.github.io/statsthinking21-core-site/) by R. Poldrack
@@ -23,6 +25,7 @@ This is a selection of resources that we thought would be useful sharing with th
 ### Differential Equations
 * [Jiri Lebl's DiffyQs book](https://www.jirka.org/diffyqs/)
 * [Neuronal dynamics](https://neuronaldynamics-exercises.readthedocs.io/en/latest/)
+* [Three Blue One Brown youtube lectures](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6)
 
 ### Machine Learning
 * [AI for everyone](https://www.coursera.org/learn/ai-for-everyone)
@@ -30,6 +33,7 @@ This is a selection of resources that we thought would be useful sharing with th
 * [Stanford's convolutional neuroal network course](http://cs231n.stanford.edu/2019/syllabus.html)
 * [DeepLabCut tutorials](https://github.com/AlexEMG/DeepLabCut/blob/master/examples/README.md)
 * [Udemy deep learning tutorials with Pytorch](https://github.com/udacity/deep-learning-v2-pytorch)
+* [Mathematics for machine learning book](https://mml-book.github.io/book/mml-book.pdf)
 
 ## Python
 * [Beginners Python resources with neuroscience slant](https://twitter.com/roxana_zeraati/status/1252021563744030720)
