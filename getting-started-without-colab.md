@@ -1,4 +1,4 @@
-# How to get started on python tutorials without google co-lab
+# How to get started on python tutorials **without** google co-lab
 
 We recognize that some of our students will not be able to access google co-lab.  So this set of instructions is to help you get an alternative environment up and running.  You're going to be using a tool that's very similar to google colab called jupyter notebooks. (In fact google colab is just google's evolution of a jupyter notebook.)
 
