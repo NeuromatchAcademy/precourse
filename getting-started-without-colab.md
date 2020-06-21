@@ -58,7 +58,48 @@ This should open up your default browser.  In the upper right-hand corner, click
 
 ## Windows
 
-UNDER CONSTRUCTION - coming soon
+### Step 2: Create the NMA programming environment
+First make a folder where you'll keep your jupyter notebooks for the python tutorials.  I'm going to make a folder in Documents called python-tutorials-2020.
+
+Now we need to create the conda environment.  [This blog post](https://heartbeat.fritz.ai/creating-python-virtual-environments-with-conda-why-and-how-180ebd02d1db) by [Okoh Anita](https://heartbeat.fritz.ai/@anitaokoh) is helpful for describing why we need environments when we program and how you create them.  Below I provide instructions for the steps we'll take to create an environment for the python tutorials.
+
+We need to create an environment.yml file that contains:
+
+	name: nma-prep
+	channels:
+	  - conda-forge
+	dependencies:
+	  - matplotlib
+	  - numpy
+	  - python=3.7
+	  - scipy
+	  - ipywidgets
+	  - jupyter
+	  - nb_conda
+	  - pandas
+
+Open Notepad. Copy and paste the contents above into that file.  Save the document in the folder you created and name it environment.yml
+
+Now open the Anaconda Navigator and launch the CMD.exe Prompt. Navigate to the folder you just created using the 'cd' command. [cd stands for change directory] You will have to adjust this file directory location according to where you have placed your folder. 
+
+`cd C:/Documents/python-tutorials-2020`
+
+Now we can install the environment.  Run the following command to create the environment. 
+	
+	conda env create
+
+It may take a few minutes to complete the installation.
+
+Now activate the environment!
+
+	conda activate nma-prep
+
+### Step 4 - Opening a jupyter notebook
+Run the following command:
+
+	jupyter notebook
+
+This should open up your default browser.  In the upper right-hand corner, click the button labelled new.  This will bring up a drop-down menu.  Click on the option labelled: Python [conda env:nma-prep].  This will open a new tab.  You have successfully opened a jupyter notebook!  You can now use this programming environment to start working on the python tutorials.
 
 ## Linux
 
