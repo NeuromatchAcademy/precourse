@@ -1,4 +1,4 @@
-# How to get started on python tutorials **without** google co-lab
+# How to get started on python tutorials without google co-lab
 
 We recognize that some of our students will not be able to access google co-lab.  So this set of instructions is to help you get an alternative environment up and running.  You're going to be using a tool that's very similar to google colab called jupyter notebooks. (In fact google colab is just google's evolution of a jupyter notebook.)
 
@@ -104,7 +104,7 @@ Run the following command:
 
 	jupyter notebook
 
-This should open up your default browser.  In the upper right-hand corner, click the button labelled new.  This will bring up a drop-down menu.  Click on the option labelled: Python [conda env:nma-prep].  This will open a new tab.  You have successfully opened a jupyter notebook!  You can now use this programming environment to start working on the python tutorials.
+This should open up your default browser.  In the upper right-hand corner, click the button labelled new.  This will bring up a drop-down menu.  Click on the option labelled: Python [conda env:nma-prep].  This will open a new tab.  You have successfully opened a jupyter notebook!  You can now use this programming environment to start working on the python tutorials. 
 
 ## Linux
 
