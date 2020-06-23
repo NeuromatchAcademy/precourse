@@ -60,9 +60,10 @@ This should open up your default browser.  In the upper right-hand corner, click
 
 ## Windows
 
-### Step 2: Create the NMA programming environment
+### Step 2: Create a folder for your python tutorials
 First make a folder where you'll keep your jupyter notebooks for the python tutorials.  I'm going to make a folder in Documents called python-tutorials-2020.
 
+### Step 2: Create the NMA programming environment
 Now we need to create the conda environment.  [This blog post](https://heartbeat.fritz.ai/creating-python-virtual-environments-with-conda-why-and-how-180ebd02d1db) by [Okoh Anita](https://heartbeat.fritz.ai/@anitaokoh) is helpful for describing why we need environments when we program and how you create them.  Below I provide instructions for the steps we'll take to create an environment for the python tutorials.
 
 We need to create an environment.yml file that contains:
