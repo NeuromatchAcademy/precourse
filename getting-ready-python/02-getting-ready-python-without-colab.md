@@ -111,7 +111,7 @@ This should open up your default browser.  In the upper right-hand corner, click
 ### Step 2: Create a folder for your python tutorials
 First make a folder where you'll keep your jupyter notebooks for the python tutorials.  I'm going to make a folder in Documents called python-tutorials-2020.
 
-You'll need to open a terminal. Open the application named Terminal (sometimes also called the command line) and navigate to the folder you just created using the 'cd' command. [cd stands for change directory] You will have to adjust this file directory location according to where you have placed your folder. 
+You'll need to open a terminal. Open the application named Terminal [sometimes also called the command line] and navigate to the folder you just created using the 'cd' command. [cd stands for change directory.] You will have to adjust this file directory location according to where you have placed your folder. 
 
 `cd ~/Documents/python-tutorials-2020`
 
