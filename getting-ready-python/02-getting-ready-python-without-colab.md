@@ -1,8 +1,11 @@
 # How to get started on python tutorials without google co-lab
 
-We recognize that some of our students will not be able to access google co-lab.  So this set of instructions is to help you get an alternative environment up and running.  You're going to be using a tool that's very similar to google colab called jupyter notebooks. (In fact google colab is just google's evolution of a jupyter notebook.)
+We recognize that some of our students will not be able to access google co-lab.  So this set of instructions is to help you get an alternative environment up and running.  You're going to be using a tool that's very similar to google colab called jupyter notebooks. (In fact google colab is just google's evolution of a jupyter notebook.) We have provided written instructions for macOS / Windows / Linux operating systems below.
 
-VIDEO INSTRUCTIONS -- COMING SOON
+### VIDEO INSTRUCTIONS
+macOS -- [Precourse Getting started with Python: Jupyter Notebooks Mac OS](https://www.youtube.com/watch?v=ex3W0QVQioU&feature=youtu.be)
+Windows -- UNDER CONSTRUCTION
+Linux -- UNDER CONSTRUCTION
 
 ## Step 1: Install Anaconda package manager
 
