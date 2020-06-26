@@ -5,6 +5,7 @@ This is a selection of resources that we thought would be useful sharing with th
 ### General courses
 * [Janelia Math course](https://github.com/JaneliaMLCourse/MathClub/blob/master/README.md)
 * [Math for Neuroscience](https://www.cns.nyu.edu/~eero/math-tools/) - Eero Simoncelli's course
+* [Computational Neuroscience](https://www.coursera.org/learn/computational-neuroscience) - Coursera, Rao & Fairhall
 
 ### Linear Algebra
 * [Linear Algebra notes](https://python-intro.quantecon.org/linear_algebra.html)
