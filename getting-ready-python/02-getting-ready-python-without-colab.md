@@ -40,6 +40,7 @@ We need to create an environment.yml file that contains:
 	  - jupyter
 	  - nb_conda
 	  - pandas
+	  - requests
 
 
 
@@ -96,6 +97,7 @@ We need to create an environment.yml file that contains:
 	  - jupyter
 	  - nb_conda
 	  - pandas
+	  - requests
 
 Open Notepad. Copy and paste the contents above into that file.  Save the document in the folder you created and name it environment.yml
 
