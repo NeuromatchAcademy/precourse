@@ -5,7 +5,7 @@ Neuromatch Academy is committed to creating a collaborative, open, and inclusive
 
 Participants or affiliates of Neuromatch Academy who are asked to stop any inappropriate behaviour are expected to comply immediately. This applies to any Neuromatch Academy events and platforms, either online or in-person. If a participant engages in behaviour that violates this Code of Conduct, the organisers may warn the offender, ask them to leave the event or platform (without refund), or engage Neuromatch Academy Diversity Committee to investigate the Code of Conduct violation and impose appropriate sanctions, decided via majority vote of the Diversity Committee. If the complaint involves a member of the Diversity Committee, that member must recuse himself or herself from the discussion and vote.
 
-Violations of the Code of Conduct should be reported by filling out our [Code of Conduct Violation Reporting form](https://forms.gle/E3fMSjqtCebgr5Er6). Complaints may be made anonymously. 
+Violations of the Code of Conduct should be reported by filling out our [Code of Conduct Violation Reporting form](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAASlhytdUMUdaSkZXQzRCV1lFWEdaSFhUMDdSWkUwUC4u). Complaints may be made anonymously. 
 
 ## 1. Be inclusive.
 
