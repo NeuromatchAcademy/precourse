@@ -10,7 +10,7 @@ People are coming to this course from a wide range of disciplines and with varyi
 
 This course will be run using Python. If you've never programmed in Python, now is a good time to start practicing! We expect students to be familiar with variables, lists, dicts, the numpy and scipy libraries as well as plotting in matplotlib. Practice a little bit every day and you'll be in great shape by the time the class starts. 
 
-We will be updating our Python workshop materials (W0D1 and W0D2 [here](https://github.com/NeuromatchAcademy/course-content/tree/master/tutorials)). You will be able to go through this NMA-made content at your own pace before the course - we will reach out when it is updated.  
+We have NMA Python workshop materials (W0D1 and W0D2 [here](https://github.com/NeuromatchAcademy/course-content/tree/master/tutorials)). You will be able to go through this NMA-made content at your own pace before the course.  
 
 Besides these NMA materials, we recommend the [Software carpentry 1-day Python tutorial](https://swcarpentry.github.io/python-novice-inflammation/) or the free Edx course [Using Python for Research](https://www.edx.org/course/using-python-for-research). For a more in-depth intro, see the [scipy lecture notes](https://scipy-lectures.org/). Finally, you can follow the [Python data science handbook](https://jakevdp.github.io/PythonDataScienceHandbook/), which also has a print edition. 
 
@@ -20,7 +20,7 @@ If you're coming from a Matlab background, you can quickly get up to speed with 
 
 Computational neuroscience and neural data analysis relies on linear algebra, probability, basic statistics, and calculus (derivates and ODEs).
 
-We will have an optional 3 day math pre-reqs refresher course covering these topics on June 30th, July 1st, and July 2nd (more details will be forthcoming). You can of course also go through the provided material at your own pace. This is a lot of math to learn in just 3 days so we expect you to study on your own before and after if you are not familiar with the topics. 
+We will have an optional 3 day math pre-reqs refresher course covering these topics on June 30th, July 1st, and July 2nd. You can of course also go through the provided material at your own pace. This is a lot of math to learn in just 3 days so we expect you to study on your own before and after if you are not familiar with the topics. 
 
 **Linear algebra:** You will need a good grasp of linear algebra to follow along, as linear algebra is crucial for almost anything quantitative involving more than one number at a time. You need to know vector and matrix addition and multiplication, rank, bases, determinants, inverses, and eigenvalue decomposition. We highly recommend this beautiful [lecture series](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab). Another great resource is [Khan academy](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/v/vector-introduction-linear-algebra).  Here is a series of exercises on [linear algebra in Python](https://www.w3resource.com/python-exercises/numpy/linear-algebra/index.php).
 
