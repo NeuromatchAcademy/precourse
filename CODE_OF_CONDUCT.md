@@ -41,3 +41,11 @@ In general, if someone asks you to stop something, then stop. When we disagree, 
 
 We can find strength in diversity. Different people have different perspectives on issues, and that can be valuable for solving problems or generating new ideas. Being unable to understand why someone holds a viewpoint doesn’t mean that they’re wrong. Don’t forget that we all make mistakes, and blaming each other doesn’t get us anywhere. Instead, focus on resolving issues and learning from mistakes.
 
+## 7. Act honestly and with academic integrity.
+
+Neuromatch Academy is not a degree-granting institution, and so does not consider performance (e.g. survey scores or even survey/content quiz completion) in granting completion certificates. However, we expect you to respect basic academic integrity principles all the same. Whether you are a student or TA, be honest in your applications and in your potential reasons for missing tutorial or project time. Don’t take the course under someone else’s name or identity: your certificate is awarded to you if you finish the course under our attendance policies, not if someone else logs in pretending to be you. Even if our completion certificates aren’t part of a degree, they still mean something to all your classmates and TAs, as well as your current or future supervisor or employer.
+
+
+Neuromatch Academy reserves the right to update this Code of Conduct at any time and without notice.
+
+
