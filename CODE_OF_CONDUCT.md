@@ -43,7 +43,20 @@ We can find strength in diversity. Different people have different perspectives 
 
 ## 7. Act honestly and with academic integrity.
 
-Neuromatch Academy is not a degree-granting institution, and so does not consider performance (e.g. survey scores or even survey/content quiz completion) in granting completion certificates. However, we expect you to respect basic academic integrity principles all the same. Whether you are a student or TA, be honest in your applications and in your potential reasons for missing tutorial or project time. Don’t take the course under someone else’s name or identity: your certificate is awarded to you if you finish the course under our attendance policies, not if someone else logs in pretending to be you. Even if our completion certificates aren’t part of a degree, they still mean something to all your classmates and TAs, as well as your current or future supervisor or employer.
+Neuromatch Academy is not a degree-granting institution, and so does not consider performance (e.g. survey scores or even survey/content quiz completion) in granting completion certificates. However, we expect you to respect basic academic integrity principles all the same. 
+
+We take academic integrity to mean adherence to the following values:
+*   Honesty
+*   Trust
+*   Fairness
+*   Respect
+*   Responsibility
+*   Courage
+
+More information on academic integrity and these values can be found at the [International Center of Academic Integrity](https://academicintegrity.org/images/pdfs/20019_ICAI-Fundamental-Values_R12.pdf).
+
+Whether you are a student or TA, be honest in your applications and in your potential reasons for missing tutorial or project time. Take responsibility for your mistakes and work to remedy them. Don’t take the course under someone else’s name or identity: your certificate is awarded to you if you finish the course under our attendance policies, not if someone else logs in pretending to be you. Even if our completion certificates aren’t part of a degree, they still mean something to all your classmates and TAs, as well as your current or future supervisor or employer. Work to build trust between you, your podmates, your TA, and the NMA organizers.
+
 
 
 Neuromatch Academy reserves the right to update this Code of Conduct at any time and without notice.
