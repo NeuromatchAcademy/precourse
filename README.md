@@ -1,6 +1,6 @@
 # Prerequisites and preparatory materials for NMA Computational Neuroscience
 
-Welcome to the [Neuromatch Academy](https://neuromatch.io/academy/)! We're really excited to bring computational neuroscience to such a wide and varied audience. We're preparing an amazing set of lectures and tutorials for you!
+Welcome to the [Neuromatch Academy](https://academy.neuromatch.io/)! We're really excited to bring computational neuroscience to such a wide and varied audience. We're preparing an amazing set of lectures and tutorials for you!
 
 ## Preparing yourself for the course
 
@@ -10,7 +10,7 @@ People are coming to this course from a wide range of disciplines and with varyi
 
 This course will be run using Python. If you've never programmed in Python, now is a good time to start practicing! We expect students to be familiar with variables, lists, dicts, the numpy and scipy libraries as well as plotting in matplotlib. Practice a little bit every day and you'll be in great shape by the time the class starts. 
 
-We have NMA Python workshop materials (W0D1 and W0D2 [here](https://github.com/NeuromatchAcademy/course-content/tree/master/tutorials)). You will be able to go through this NMA-made content at your own pace before the course.  
+We have NMA Python workshop materials (W0D1 and W0D2 [here](https://github.com/NeuromatchAcademy/precourse/tree/main/tutorials)). You will be able to go through this NMA-made content at your own pace before the course.  
 
 Besides these NMA materials, we recommend the [Software carpentry 1-day Python tutorial](https://swcarpentry.github.io/python-novice-inflammation/) or the free Edx course [Using Python for Research](https://www.edx.org/course/using-python-for-research). For a more in-depth intro, see the [scipy lecture notes](https://scipy-lectures.org/). Finally, you can follow the [Python data science handbook](https://jakevdp.github.io/PythonDataScienceHandbook/), which also has a print edition. 
 
