@@ -15,7 +15,6 @@ This is a selection of resources that we thought would be useful sharing with th
 * [Gilbert Starng's Linear Algebra lectures](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
 * [Three Blue One Brown youtube lectures](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
-
 ### Statistics
 * [Statistical thinking for the 21st century (2019)](https://statsthinking21.github.io/statsthinking21-core-site/) by R. Poldrack
 * [Stats for neuroimaging](https://learn-neuroimaging.github.io/tutorials-and-resources/statistics/)
@@ -26,6 +25,10 @@ This is a selection of resources that we thought would be useful sharing with th
 * [Jiri Lebl's DiffyQs book](https://www.jirka.org/diffyqs/)
 * [Neuronal dynamics](https://neuronaldynamics-exercises.readthedocs.io/en/latest/)
 * [Three Blue One Brown youtube lectures](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6)
+
+### Comp neuro
+* [Computational Neuroscience](https://www.coursera.org/learn/computational-neuroscience) - Coursera, Rao & Fairhall
+* [Neuronal Dynamics](https://neuronaldynamics.epfl.ch/) by W. Gerstner, W. M. Kistler, R. Naud, and L. Paninski
 
 ### Machine Learning
 * [AI for everyone](https://www.coursera.org/learn/ai-for-everyone)
