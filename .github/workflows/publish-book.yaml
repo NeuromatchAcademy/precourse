@@ -3,14 +3,11 @@ name: publish-book
 on: 
 
   workflow_dispatch:
-    
-  push:
-    branches: master
 
 env:
   NB_KERNEL: python
   NMA_REPO: precourse
-  NMA_MAIN_BRANCH: master
+  NMA_MAIN_BRANCH: main
 
 # This job installs dependencies, build the book, and pushes it to `gh-pages`
 jobs:
