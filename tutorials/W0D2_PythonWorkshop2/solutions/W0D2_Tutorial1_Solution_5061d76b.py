@@ -17,7 +17,7 @@ spikes_n = np.zeros([step_end])
 for step, t in enumerate(t_range):
 
   # Skip first iteration
-  if step==0:
+  if step == 0:
     continue
 
   # Compute v_n
