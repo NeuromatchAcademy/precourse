@@ -18,7 +18,7 @@ If you're coming from a Matlab background, you can quickly get up to speed with 
 
 ### Math skills
 
-Computational neuroscience and neural data analysis relies on linear algebra, probability, basic statistics, and calculus (derivates and ODEs).
+Deep learning relies on linear algebra, probability, basic statistics, and calculus (derivates and ODEs).
 
 We highly recommend going through our refreshers on linear algebra, calculus, and statistics (W0D3, W0D4, W0D5 [here](https://compneuro.neuromatch.io/)). You will be able to ask questions on discord before the course starts. Note that these have a neuroscience focus in the examples used but the math basics will be extremely useful for the deep learning course. 
 
