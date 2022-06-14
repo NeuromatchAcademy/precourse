@@ -6,4 +6,4 @@
   2. There is a linear relationship between $\Delta t$ and $e_1$: double the time-step double the error.
 
   3. Make more shorter time-steps
-"""
+""";

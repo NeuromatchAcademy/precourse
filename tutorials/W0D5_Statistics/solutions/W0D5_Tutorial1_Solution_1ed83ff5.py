@@ -11,4 +11,4 @@ chose left and right turns in the maze with equal probability (that p = 0.5)
 4) With p = 0.8, the center of the histogram would be at x = 8 and it would not be
    as symmetrical (since it would be cut off at max 10). You can go into the code above
    and run it with p = 0.8 to see this.
-"""
+""";

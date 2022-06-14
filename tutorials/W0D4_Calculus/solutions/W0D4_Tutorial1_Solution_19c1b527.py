@@ -8,4 +8,4 @@ Smaller the $\theta$ smaller the value for maximum slope.
 Therefore, $a$ determines the maximum value of the slope.
 
 Note: $a$ and $\theta$ do not determine the maximum value of the transfer function itself.
-"""
+""";

@@ -10,4 +10,4 @@ So by changing $\theta$ for excitation you will shift the derivative surface lef
 $a$ controls the steepness of the neuron transfer function -- increasing $a$ makes the curve more steeper.
 So by changing $a$ for excitation you will vary the width of the notch of the derivative surface.
 For inhibition, by varying $a$ you will vary the width of the ridge in the drivative surface.
-"""
+""";
