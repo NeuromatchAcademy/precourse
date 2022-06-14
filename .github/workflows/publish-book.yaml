@@ -46,10 +46,10 @@ jobs:
           pip install jupyter-book==0.10.2 ghp-import
       - name: Build the book
         run: |
-          python ci/generate_book_precourse.py
+          python ci/generate_book_precourse.py student
           ln -s ../tutorials book/tutorials
           jupyter-book build book
-          python ci/parse_html_for_errors.py
+          python ci/parse_html_for_errors.py student
       - name: Commit book
         run: |
           git config --local user.email "action@github.com"
