@@ -1,5 +1,5 @@
 
-'''
+"""
 1)  The direction of the retinal firing rate vector that maximially excites
     the LGN neuron is the direction of the weight vector.
 
@@ -14,4 +14,4 @@
 
 5)  You want a unit vector in the direction of the weight vector. You can just normalize
     the weight vector (divide by it's length), as we saw in Section 1!
-'''
+""";
