@@ -4,5 +4,4 @@
    the rats location less often.
 
 2) The rat tends to visit more of the arena with a large step size.
-
-"""
+""";

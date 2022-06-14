@@ -9,4 +9,4 @@
    integral for positive values of $T$ and underestimate for negativeve values of
    $T$. We could also use the backward Riemann sum, and that will give an overestimate
    of the integral for positive values of $T$.
-"""
+""";

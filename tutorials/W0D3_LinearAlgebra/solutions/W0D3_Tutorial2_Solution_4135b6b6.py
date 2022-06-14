@@ -1,5 +1,5 @@
 
-'''
+"""
 1)  P is transforming from all of 2D space to all of 2D space. The range of P is
     all of 2D space so the rank is 2. Q is squishing space from 2D to a 1D line.
     The range of Q is that 1D line so the rank is 1.
@@ -20,4 +20,4 @@
     two retinal neurons to the two LGN neurons. We cannot recover retinal activity given population
     q since we lose a dimension. There is information loss between retinal neurons and population q
     LGN neurons.
-'''
+""";

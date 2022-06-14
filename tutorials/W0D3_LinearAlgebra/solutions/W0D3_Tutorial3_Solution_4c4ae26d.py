@@ -1,5 +1,5 @@
 
-'''
+"""
 1)  If both eigenvalues are above 1, the neural activities will eventually explode
     to infinity or negative infinity, depending on initial conditions. The exact trajectory
     is drawn towards the eigenvector with the larger eigenvalue. This is because the larger eigenvalue
@@ -11,4 +11,4 @@
     the initial condition lies exactly on the eigenvector with the small eigenvalue. If the
     initial condition is near to that eigenvector, the trajectory will first go towards
     the origin before exploding
-'''
+""";

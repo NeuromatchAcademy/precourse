@@ -7,4 +7,4 @@ new evidence that updates its "beliefs"/prior. This process seems to parallel
 the brain's method of learning about its environment, making it a compelling
 theory for many neuroscience researchers. One of Bonus exercises below examines a possible
 real world model for Bayesian inference: sound localization.
-"""
+""";
