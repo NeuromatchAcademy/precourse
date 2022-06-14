@@ -25,11 +25,11 @@ with plt.xkcd():
     # Loop for n simulations
     for j in range(0, n):
 
-        # Compute value of i at this time step
-        i = i_mean * (1 + 0.1 * (t_max/dt)**(0.5) * (2* np.random.random() - 1))
+      # Compute value of i at this time step
+      i = i_mean * (1 + 0.1 * (t_max/dt)**(0.5) * (2* np.random.random() - 1))
 
-        # Compute value of v for this simulation
-        v_n[j] = v_n[j] + (dt / tau) * (el - v_n[j] + r*i)
+      # Compute value of v for this simulation
+      v_n[j] = v_n[j] + (dt / tau) * (el - v_n[j] + r*i)
 
     # Plot all simulations (use alpha = 0.1 to make each marker slightly transparent)
     plt.plot([t] * n, v_n, 'k.', alpha=0.1)

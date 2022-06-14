@@ -12,8 +12,8 @@ i = i_mean * (1 + 0.1 * (t_max / dt)**(0.5) * (2 * np.random.random([n, step_end
 # Loop for step_end - 1 steps
 for step in range(1, step_end):
 
-   # Compute v_n
-   v_n[:, step] = v_n[:, step - 1] + (dt / tau) * (el - v_n[:, step - 1] + r * i[:, step])
+  # Compute v_n
+  v_n[:, step] = v_n[:, step - 1] + (dt / tau) * (el - v_n[:, step - 1] + r * i[:, step])
 
 # Compute sample mean (use np.mean)
 v_mean = np.mean(v_n, axis=0)
