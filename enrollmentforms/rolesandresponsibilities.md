@@ -52,7 +52,7 @@ Please consult our [CN Prerequisites and Preparatory Materials page](https://git
      - We highly recommend going through the Python pre-reqs refresher developed for the comp neuro course: W0D1 and W0D2 [here]( https://compneuro.neuromatch.io/)). Note that it has a neuroscience focus in the examples used but the Python basics will be extremely useful for the deep learning course. 
      - We also include other resources to learn Python on our [Prerequisites and Preparatory Materials page](https://github.com/NeuromatchAcademy/precourse/blob/main/prereqs/DeepLearning.md).
 -   Basic knowledge in Linear Algebra, Statistics, and Calculus. 
-     - We highly recommend going through the Python pre-reqs refresher developed for the comp neuro course: W0D3, W0D4, and W0D5 [here]( https://compneuro.neuromatch.io/)) Note that these have a neuroscience focus in the examples used but the math basics will be extremely useful for the deep learning course. 
+     - We highly recommend going through the math pre-reqs refresher developed for the comp neuro course: W0D3, W0D4, and W0D5 [here]( https://compneuro.neuromatch.io/)) Note that these have a neuroscience focus in the examples used but the math basics will be extremely useful for the deep learning course. 
      - We also include other resources to learn Python on our [Prerequisites and Preparatory Materials page](https://github.com/NeuromatchAcademy/precourse/blob/main/prereqs/DeepLearning.md).
      
 ## Evaluations:
