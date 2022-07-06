@@ -16,14 +16,23 @@
   category: Pre-reqs Refresher
   name: Linear Algebra
   playlist: https://www.youtube.com/playlist?list=PLkBQOLLbi18Oz3lb0fo06k0cAWk54rsoE
+  slides:
+  - link: https://mfr.ca-1.osf.io/render?url=https://osf.io/8s6nm/?direct%26mode=render%26action=download%26mode=render
+    title: DaySummary
   tutorials: 3
 - day: W0D4
   category: Pre-reqs Refresher
   name: Calculus
   playlist: https://www.youtube.com/playlist?list=PLkBQOLLbi18NTiaHYRylxN0gSm1PlQ15N
+  slides:
+  - link: https://mfr.ca-1.osf.io/render?url=https://osf.io/3y5uf/?direct%26mode=render%26action=download%26mode=render
+    title: DaySummary
   tutorials: 3
 - day: W0D5
   category: Pre-reqs Refresher
   name: Statistics
   playlist: https://www.youtube.com/playlist?list=PLkBQOLLbi18MDDH09-kvRoU8XANuCJvGg
+  slides:
+  - link: https://mfr.ca-1.osf.io/render?url=https://osf.io/kwydt/?direct%26mode=render%26action=download%26mode=render
+    title: DaySummary
   tutorials: 2
