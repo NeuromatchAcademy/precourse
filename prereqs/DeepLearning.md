@@ -10,7 +10,7 @@ People are coming to this course from a wide range of disciplines and with varyi
 
 This course will be run using Python. If you've never programmed in Python, now is a good time to start practicing! We expect students to be familiar with variables, lists, dicts, the numpy and scipy libraries as well as plotting in matplotlib. Practice a little bit every day and you'll be in great shape by the time the class starts. 
 
-We have NMA Python workshop materials (W0D1 and W0D2 [here](https://compneuro.neuromatch.io/)). You should go through this NMA-made content at your own pace before the course.  Note that it has a neuroscience focus in the examples used but the Python basics will be extremely useful for the deep learning course. 
+We have NMA Python workshop materials (W0D1 and W0D2 [here](https://precourse.neuromatch.io/)). You should go through this NMA-made content at your own pace before the course.  Note that it has a neuroscience focus in the examples used but the Python basics will be extremely useful for the deep learning course. 
 
 Besides these NMA materials, we recommend the [Software carpentry 1-day Python tutorial](https://swcarpentry.github.io/python-novice-inflammation/) or the free Edx course [Using Python for Research](https://www.edx.org/course/using-python-for-research). For a more in-depth intro, see the [scipy lecture notes](https://scipy-lectures.org/). Finally, you can follow the [Python data science handbook](https://jakevdp.github.io/PythonDataScienceHandbook/), which also has a print edition. 
 
