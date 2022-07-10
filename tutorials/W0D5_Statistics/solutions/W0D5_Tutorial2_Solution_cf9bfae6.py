@@ -6,7 +6,7 @@ def negLogLike(theta, x):
 
     Args:
       theta (ndarray): normal distribution parameters (mean is theta[0],
-                            variance is theta[1])
+                            standard deviation is theta[1])
       x (ndarray): array with observed data points
 
     Returns:
@@ -29,7 +29,7 @@ bnds = ((None, None), (0, None))
 # Optimize with scipy!
 optimal_parameters = sp.optimize.minimize(negLogLike, (2, 2), args = x, bounds = bnds)
 print("The optimal mean estimate is: " + str(optimal_parameters.x[0]))
-print("The optimal variance estimate is: " + str(optimal_parameters.x[1]))
+print("The optimal standard deviation estimate is: " + str(optimal_parameters.x[1]))
 
 # optimal_parameters contains a lot of information about the optimization,
-# but we mostly want the mean and variance
+# but we mostly want the mean and standard deviation
