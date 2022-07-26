@@ -18,6 +18,7 @@ def my_gaussian(x_points, mu, sigma):
   px = px/(0.1*sum(px))
   return px
 
+
 def compute_posterior_pointwise(prior, likelihood):
   """ Compute the posterior probability distribution point-by-point using Bayes
   Rule.
@@ -35,8 +36,9 @@ def compute_posterior_pointwise(prior, likelihood):
 
   return posterior
 
-def localization_simulation(mu_auditory = 3.0, sigma_auditory = 1.5,
-                            mu_visual = -1.0, sigma_visual = 1.5):
+
+def localization_simulation(mu_auditory=3.0, sigma_auditory=1.5,
+                            mu_visual=-1.0, sigma_visual=1.5):
   """ Perform a sound localization simulation with an auditory prior.
 
     Args:
@@ -63,6 +65,6 @@ def localization_simulation(mu_auditory = 3.0, sigma_auditory = 1.5,
   return x, auditory, visual, posterior
 
 # Uncomment the lines below to plot the results
-x, auditory, visual, posterior_pointwise = localization_simulation()
+x, auditory, visual, posterior_pointwise=localization_simulation()
 with plt.xkcd():
   _ = posterior_plot(x, auditory, visual, posterior_pointwise)
