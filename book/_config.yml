@@ -46,6 +46,13 @@ html:
   comments:
     hypothesis              : false
     utterances              : false
+    extra_footer : |
+    <div>
+    <a href="http://creativecommons.org/licenses/by/4.0/"><img src="https://i.creativecommons.org/l/by/4.0/88x31.png"></a>
+    <a href="https://opensource.org/licenses/BSD-3-Clause"><img src="https://opensource.org/licenses/BSD-3-Clause"></a>
+        The contents of this repository are shared under under a <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+        Software elements are additionally licensed under the <a href="https://opensource.org/licenses/BSD-3-Clause">BSD (3-Clause) License</a>.
+    </div>
 
 #######################################################################################
 # Launch button settings
