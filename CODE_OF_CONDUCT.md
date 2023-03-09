@@ -1,11 +1,12 @@
 
-# Neuromatch Academy Code of Conduct
+# Neuromatch Code of Conduct
 
-Neuromatch Academy is committed to creating a collaborative, open, and inclusive teaching and learning environment. All Neuromatch Academy students, teaching assistants, affiliated faculty, organizers and Github contributors are expected to adhere to this Code of Conduct.  
+Neuromatch is committed to creating a collaborative, open, and inclusive teaching and learning environment. All Neuromatch students, teaching assistants, affiliated faculty, organizers, volunteers, staff, and contributors are expected to adhere to this Code of Conduct.
 
-Participants or affiliates of Neuromatch Academy who are asked to stop any inappropriate behaviour are expected to comply immediately. This applies to any Neuromatch Academy events and platforms, either online or in-person. If a participant engages in behaviour that violates this Code of Conduct, the organisers may warn the offender, ask them to leave the event or platform (without refund), or engage Neuromatch Academy Diversity Committee or Ombuds Office to investigate the Code of Conduct violation and impose appropriate sanctions, decided via majority vote of the Diversity Committee. If the complaint involves a member of the Diversity Committee or Ombuds Office, that member must recuse himself or herself from the discussion and vote.
+Participants or affiliates of Neuromatch who are asked to stop any inappropriate behavior are expected to comply immediately. This applies to any Neuromatch events
+and platforms, either online or in-person. If a participant engages in behavior that violates this Code of Conduct, the organizers may warn the offender, ask them to leave the event or platform (without refund), or engage Neuromatch Diversity Committee or Conflict Resolution Office to investigate the Code of Conduct violation and impose appropriate sanctions, decided via majority vote of the relevant committee. If the complaint involves a member of the Diversity Committee or Conflict Resolution Office, that member must recuse themself from the discussion and vote.
 
-Violations of the Code of Conduct should be reported by filling out our [Code of Conduct Violation Reporting form](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAASlhytdUMUdaSkZXQzRCV1lFWEdaSFhUMDdSWkUwUC4u). Complaints may be made anonymously and are visible only to members of the Neuromatch Academy Ombuds Office.
+Violations of the Code of Conduct should be reported by filling out our [Code of Conduct Violation Reporting form](https://airtable.com/shrezDSthWPlJ4Rpy). Complaints may be made anonymously and are visible only to members of the Neuromatch Conflict Resolution Office.
 
 ## 1. Be inclusive.
 
@@ -23,10 +24,7 @@ We won't all agree all the time, but disagreement is no excuse for disrespectful
 
 Always conduct yourself professionally. Be kind to others. Do not insult or put down others. Harassment and exclusionary behavior aren't acceptable. This includes, but is not limited to:
 
-
-
 *   Threats of violence.
-*   Insubordination.
 *   Discriminatory jokes and language.
 *   Sharing sexually explicit or violent material via electronic devices or other means.
 *   Personal insults, especially those using racist or sexist terms.
@@ -41,7 +39,12 @@ In general, if someone asks you to stop something, then stop. When we disagree, 
 
 We can find strength in diversity. Different people have different perspectives on issues, and that can be valuable for solving problems or generating new ideas. Being unable to understand why someone holds a viewpoint doesn’t mean that they’re wrong. Don’t forget that we all make mistakes, and blaming each other doesn’t get us anywhere. Instead, focus on resolving issues and learning from mistakes.
 
-## 7. Act honestly and with academic integrity.
+## 7. Assume good intentions and own impact.
+
+We come from across the world and all have unique cultural backgrounds and identities. We assume we always mean well, but also acknowledge that sometimes we can hurt each other even if we don’t mean to. When harm occurs we apologize, make it right, and learn from the experience.
+
+
+## 8. Act honestly and with academic integrity.
 
 Neuromatch Academy is not a degree-granting institution, and so does not consider performance (e.g. survey scores or even survey/content quiz completion) in granting completion certificates. However, we expect you to respect basic academic integrity principles all the same. 
 
@@ -59,6 +62,6 @@ Whether you are a student or TA, be honest in your applications and in your pote
 
 
 
-Neuromatch Academy reserves the right to update this Code of Conduct at any time and without notice.
+Neuromatch, Inc. reserves the right to update this Code of Conduct at any time and without notice.
 
 
