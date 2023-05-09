@@ -35,3 +35,4 @@ If you're coming from outside neuroscience, it'll be great to familiarize yourse
 We're so excited to have you here! Looking forward to meeting you soon,
 
 The Neuromatch Academy team.
+

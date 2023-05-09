@@ -29,3 +29,4 @@ We highly recommend going through our refreshers on linear algebra, calculus, an
 **Calculus:** Finally, basic calculus is crucial; you should know what integrals and derivatives are, and understand what a differential equation means. If you need to refresh your memory on differential and integral calculus, [Gilbert Strang's book](https://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf) is a good refreshment book. For differential equations, we recommend studying chapter 0-1 (including exercises!) of Jiri Lebl's book ["Differential equations for engineers"](https://www.jirka.org/diffyqs/).
 
 The Neuromatch Academy team.
+

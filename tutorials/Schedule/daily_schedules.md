@@ -7,3 +7,4 @@
     * Wed, June 30th: Linear Algebra (Mandatory for all Tutorial TAs). Project TAs have separate training.
     * Thus, July 1st:Calculus (Mandatory for all Tutorial TAs). Project TAs have separate training.
     * Fri, July 2nd: Probability & Statistics (Mandatory for all Tutorial TAs). Project TAs have separate training.
+

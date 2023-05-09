@@ -44,3 +44,4 @@ This is a selection of resources that we thought would be useful sharing with th
 * [Software carpentry Python II](http://swcarpentry.github.io/python-novice-gapminder/)
 * [Carel Reader online Python intro](https://compedu.stanford.edu/karel-reader/docs/python/en/intro.html)
 * [NumPy tutorial](https://cs231n.github.io/python-numpy-tutorial/)
+
