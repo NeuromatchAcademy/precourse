@@ -62,8 +62,9 @@ jobs:
       - name: Get changed files
         if: "!contains(env.COMMIT_MESSAGE, 'skip ci')"
         id: changes
-        uses: tj-actions/changed-files@v35.9.2
+        uses: tj-actions/changed-files@v35
         with:
+          since_last_remote_commit: true 
           output: " "
 
       - name: Process notebooks
