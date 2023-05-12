@@ -62,7 +62,7 @@ jobs:
       - name: Get changed files
         if: "!contains(env.COMMIT_MESSAGE, 'skip ci')"
         id: changes
-        uses: trilom/file-changes-action@v1.2.4
+        uses: tj-actions/changed-files@v35.9.2
         with:
           output: " "
 
