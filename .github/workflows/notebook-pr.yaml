@@ -62,9 +62,8 @@ jobs:
       - name: Get changed files
         if: "!contains(env.COMMIT_MESSAGE, 'skip ci')"
         id: changes
-        uses: tj-actions/changed-files@v35
+        uses: trilom/file-changes-action@v1.2.4
         with:
-          since_last_remote_commit: true 
           output: " "
 
       - name: Process notebooks
