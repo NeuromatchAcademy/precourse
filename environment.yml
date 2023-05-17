@@ -1,6 +1,4 @@
-name: precourse
-channels:
-  - conda-forge
+name: nma-precourse
 dependencies:
   - python=3.7
   - requests
