@@ -5,4 +5,5 @@ matplotlib
 scikit-learn
 torch
 ipywidgets
+xkcd
 decorator==5.0.9
