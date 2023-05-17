@@ -17,7 +17,7 @@ jobs:
     steps:
 
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
           persist-credentials: false
           fetch-depth: 0
@@ -30,9 +30,9 @@ jobs:
 
       - name: Set up Python
         if: "!contains(env.COMMIT_MESSAGE, 'skip ci')"
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
-          python-version: 3.7
+          python-version: 3.9
 
       - name: Install CI tools
         if: "!contains(env.COMMIT_MESSAGE, 'skip ci')"
@@ -62,7 +62,7 @@ jobs:
       - name: Get changed files
         if: "!contains(env.COMMIT_MESSAGE, 'skip ci')"
         id: changes
-        uses: trilom/file-changes-action@v1.2.4
+        uses: jitterbit/get-changed-files@v1
         with:
           output: " "
 
@@ -78,7 +78,7 @@ jobs:
 
       - name: Add PR comment
         if: "!contains(env.COMMIT_MESSAGE, 'skip ci')"
-        uses: machine-learning-apps/pr-comment@1.0.0
+        uses: mshick/add-pr-comment@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
