@@ -54,8 +54,8 @@ jobs:
       - name: Install XKCD fonts
         if: "!contains(env.COMMIT_MESSAGE, 'skip ci')"
         run: |
-          sudo apt-get update -yq
-          sudo apt-get install fonts-humor-sans -yq
+          sudo apt update -yq
+          sudo apt install fonts-humor-sans -yq
           rm -f $HOME/.matplotlib/fontList.cache
 
       - name: Get changed files
