@@ -12,6 +12,6 @@ Ask these people whether you are eligible to be paid as an “Independent Contra
 
 <img width="697" alt="Screen Shot 2023-05-19 at 7 31 02 AM" src="https://github.com/NeuromatchAcademy/precourse/assets/10643579/bccbabe0-ca77-43ea-8dd6-b7de90de025b">
 
-Click here to download the OPT/CPT offer letter template if you need it. 
+Click [here](https://docs.google.com/document/d/1WkiHdlqI2HOiOIhs7qyiyxuxgydG2Bn2jQ_rfWvfxik/edit?usp=sharing) to download the OPT/CPT offer letter template if you need it. 
 
 Email back to nma@neuromatch.io with the subject line “TA OPT/CPT letter”, or upload it in your onboarding form. We will sign it and email it back to you to help with your application.
