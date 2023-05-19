@@ -1,12 +1,12 @@
 # Expectations (7-9 hours per day, Monday-Friday)
 
-The NMA courses are designed to be intensely interactive and engaging.  You should plan to have a lot of time to devote to the course on each weekday for the duration of the course.  Try not to schedule other major intellectual activities during the course to allow yourself time to rest and reflect on what you have been learning and to join NMA social activities.  This document outlines what your roles and responsibilities will be as someone taking the course.  
+The NMA/CMA courses are designed to be intensely interactive and engaging.  You should plan to have a lot of time to devote to the course on each weekday for the duration of the course.  Try not to schedule other major intellectual activities during the course to allow yourself time to rest and reflect on what you have been learning and to join NMA social activities.  This document outlines what your roles and responsibilities will be as someone taking the course.  
 
 
 As a student, you will bring your own expertise into the course and this determines in part what you will learn. Students who have less experience with a given skill set, like coding or neuroscience, will find some parts of the course very challenging.  This is normal, and you should not feel too frustrated, especially after the first two days. Even if you cannot master the content, you will still learn a lot. Also, you can always go back and revisit the material again after the course is over, weeks, months or even years from now. The tutorials and videos will be available online for as long as you need them.  
 
 
-As an NMA student you will be expected to:
+As an NMA/CMA student you will be expected to:
 
 
 -    Be present for every day of the Academy in your designated time slots.  This consists of two parts:
@@ -29,12 +29,16 @@ NMA-CN  https://compneuro.neuromatch.io/
 
 NMA-DL  https://deeplearning.neuromatch.io/
 
+And the course curriculum for the Computational Tools for Climate Science
+
+CMA https://academy.climatematch.io/courses/2023-computational-tools-for-climate-science
+
 
 We encourage participation in professional development sessions as a means to develop a professional network in the discipline.  More details about this will be given subsequently.
 
-You will also be offered the opportunity to participate in mentoring sessions with leaders in computational neuroscience and DL from around the world. We encourage you to make the best out of those unique opportunities!
+You will also be offered the opportunity to participate in mentoring sessions with leaders in computational neuroscience, Dl and climatescience from around the world. We encourage you to make the best out of those unique opportunities!
 
-Remember most importantly that this Academy is what you make it.  Our curriculum is designed to work best for active learning, so you should support your fellow students, ask questions of the TA, be an active participant in your group. Make new friends on Discord. You’ll also be able to build your network of contacts, with your TA, other students, and the instructional faculty and mentors for your group project or in other sessions. Create opportunities to engage, learn and build connections! Neuromatch Academy is an immersive, intense experience but we hope you will have a fantastic time!
+Remember most importantly that this Academy is what you make it.  Our curriculum is designed to work best for active learning, so you should support your fellow students, ask questions of the TA, be an active participant in your group. Make new friends on Discord. You’ll also be able to build your network of contacts, with your TA, other students, and the instructional faculty and mentors for your group project or in other sessions. Create opportunities to engage, learn and build connections! Neuromatch/Climatematch Academy is an immersive, intense experience but we hope you will have a fantastic time!
 
 
 ## Qualifications for Computational Neuroscience Course
@@ -54,6 +58,19 @@ Please consult our [CN Prerequisites and Preparatory Materials page](https://git
 -   Basic knowledge in Linear Algebra, Statistics, and Calculus. 
      - We highly recommend going through the math pre-reqs refresher developed for the comp neuro course: W0D3, W0D4, and W0D5 [here]( https://compneuro.neuromatch.io/)) Note that these have a neuroscience focus in the examples used but the math basics will be extremely useful for the deep learning course. 
      - We also include other resources to learn Python on our [Prerequisites and Preparatory Materials page](https://github.com/NeuromatchAcademy/precourse/blob/main/prereqs/DeepLearning.md).
+
+## Qualifications for Computational Tools for Climate Science
+-    Minimum experience with Python. The course Computational Tools for Climate Science will involve hands-on coding using Python. We expect students to be familiar with variables, lists, dicts, the numpy and scipy libraries as well as plotting in matplotlib.
+     -   The course Computational Tools for Climate Science tutorials will be formatted as Jupyter Notebooks. We recommend following the "book" [Pythia Foundations](https://foundations.projectpythia.org/landing-page.html), which covers the foundational skills everyone needs to get started, offering different options to run Python code. We will base our asynchronous Python pre course on this source. 
+     -   Additional resources are: 
+          - [Software carpentry 1-day Python tutorial](https://swcarpentry.github.io/python-novice-inflammation/). 
+          - [Introducción a Python para Científicxs](https://youtu.be/LS_e9gqTM2s?t=1083) by Dr. Santiago Soler, certified as Software Carpentry Instructor (Spanish).
+          - Free Edx course [Using Python for Research](https://www.edx.org/course/using-python-for-research)
+          - [Scipy lecture notes](https://scipy-lectures.org/) for a more in-depth intro.
+          - [Python data science handbook](https://jakevdp.github.io/PythonDataScienceHandbook/), which also has a print edition. 
+
+-   Basic knowledge of math skills, basic knowledge of chemistry and physics, and some exposure to statistics.
+-   We will keep you updated about our asynchronous Python course and specific resources to refresh your foundational knowledge of math, physics, and chemistry on our **Prerequisites and Preparatory Materials page**. Coming soon!
      
 ## Evaluations:
 
