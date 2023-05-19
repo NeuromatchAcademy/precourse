@@ -1,7 +1,8 @@
-> Welcome to NMA as a Teaching Assistant! 
-> We’re very happy you are with us!
+# Welcome to NMA as a Teaching Assistant! 
 
-Now that you’ve filled out all the onboarding forms, you might be wondering… 
+# We’re very happy you are with us!
+
+**Now that you’ve filled out all the onboarding forms, you might be wondering…** 
 How do I get paid?
 
 Neuromatch has multiple ways to pay our TAs and other independent contractors. The most common way uses an accounting and electronic payment service for our independent contractors who are paid directly by Neuromatch. Some of our TAs are also paid by third party sponsors (you would know this ahead of time). Below we outline the steps for how you will get paid under each of these scenarios.
