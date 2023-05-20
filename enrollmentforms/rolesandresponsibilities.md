@@ -60,16 +60,15 @@ Please consult our [CN Prerequisites and Preparatory Materials page](https://git
      - We also include other resources to learn Python on our [Prerequisites and Preparatory Materials page](https://github.com/NeuromatchAcademy/precourse/blob/main/prereqs/DeepLearning.md).
 
 ## Qualifications for Computational Tools for Climate Science
--    Minimum experience with Python. The course Computational Tools for Climate Science will involve hands-on coding using Python. We expect students to be familiar with variables, lists, dicts, the numpy and scipy libraries as well as plotting in matplotlib.
-     -   The course Computational Tools for Climate Science tutorials will be formatted as Jupyter Notebooks. We recommend following the "book" [Pythia Foundations](https://foundations.projectpythia.org/landing-page.html), which covers the foundational skills everyone needs to get started, offering different options to run Python code. We will base our asynchronous Python pre course on this source. 
-     -   Additional resources are: 
-          - [Software carpentry 1-day Python tutorial](https://swcarpentry.github.io/python-novice-inflammation/). 
-          - [Introducción a Python para Científicxs](https://youtu.be/LS_e9gqTM2s?t=1083) by Dr. Santiago Soler, certified as Software Carpentry Instructor (Spanish).
-          - Free Edx course [Using Python for Research](https://www.edx.org/course/using-python-for-research)
-          - [Scipy lecture notes](https://scipy-lectures.org/) for a more in-depth intro.
-          - [Python data science handbook](https://jakevdp.github.io/PythonDataScienceHandbook/), which also has a print edition. 
-
--   Basic knowledge of math skills, basic knowledge of chemistry and physics, and some exposure to statistics.
+-   Basic knowledge of math skills, chemistry and physics.
+-   Minimum experience with Python. The three-day asynchronous Python pre-course (July 12 to July 14) would include the following sections from the "book" [Pythia Foundations](https://foundations.projectpythia.org/landing-page.html)
+     - Overview 
+     - Numpy
+     - Matplotlib
+     - Cartopy
+     - Datetime
+     - Pandas
+     - Data formats
 -   We will keep you updated about our asynchronous Python course and specific resources to refresh your foundational knowledge of math, physics, and chemistry on our **Prerequisites and Preparatory Materials page**. Coming soon!
      
 ## Evaluations:
