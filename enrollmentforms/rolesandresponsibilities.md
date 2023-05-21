@@ -61,7 +61,7 @@ Please consult our [CN Prerequisites and Preparatory Materials page](https://git
 
 ## Qualifications for Computational Tools for Climate Science
 -   Basic knowledge of math skills, chemistry and physics.
--   Minimum experience with Python. The three-day asynchronous Python pre-course (July 12 to July 14) would include the following sections from the "book" [Pythia Foundations](https://foundations.projectpythia.org/landing-page.html)
+-   Minimum experience with Python. Students will be offered asynchronous support during the Python pre-course (July 12-14) on topics drawn from the Project Pythia Foundations book ["Python-based computing in the geosciences"](https://foundations.projectpythia.org/landing-page.html): 
      - Overview 
      - Numpy
      - Matplotlib
@@ -69,7 +69,7 @@ Please consult our [CN Prerequisites and Preparatory Materials page](https://git
      - Datetime
      - Pandas
      - Data formats
--   We will keep you updated about our asynchronous Python course and specific resources to refresh your foundational knowledge of math, physics, and chemistry on our **Prerequisites and Preparatory Materials page**. Coming soon!
+-  We will keep you updated about additional resources to refresh your foundational knowledge in math, physics, and chemistry on our **Prerequisites and Preparatory Materials page**. Coming soon!
      
 ## Evaluations:
 
