@@ -19,7 +19,7 @@ As an NMA/CMA student you will be expected to:
 -    Let the TA know if you need to miss classes due to illness/other unavoidable circumstances. 
 -    Be respectful and understanding of cultural differences. Please review the code of conduct.
 -    Complete 5 min daily reflection surveys to help you think about the course material and provide anonymous feedback on how your day went working within your pod.
--    Refresh your knowledge of or learn the prerequisite Python, math and (for comp neuro) neuroscience before the course. See the qualifications section below for more information.
+-    Refresh your knowledge of or learn the prerequisite Python, math and (for comp neuro) neuroscience before the course. **Students in the deep learning and computational neuroscience course are expected to look through and if needed, fully complete, the provided pre-reqs refresher tutorials on Python, linear algebra, calculus, statistics, and (for comp neuro) the neuro video series to ensure they have the prerequisite knowledge ahead of time.** See the qualifications section below for more information. 
 -    Your group will be developing a project during the course. Spend some time in advance of day 1 to think about ideas for this project related to our provided datasets or think about a theory project that might be interesting, but remain open to the ideas of your group as well. You will make the most progress if you learn to collaborate well.
 -    Pay your registration fee. Most students are able to get their registration fee paid for by their institution or employer, typically through a reimbursement program for additional training. If you don’t know how to approach this, we provide an instruction guide in our payment portal. Because payment is made through our payment portal, we cannot accept bank transfers directly from your institution. As always, the payment process in our portal will ensure that Neuromatch is affordable to you or your institution.          	
 
@@ -42,22 +42,22 @@ Remember most importantly that this Academy is what you make it.  Our curriculum
 
 
 ## Qualifications for Computational Neuroscience Course
-- A minimum understanding of neuroscience. 
-     - We highly recommend going through the neuro video series before the course (W0D0 [here]( https://compneuro.neuromatch.io/))
-- Minimum experience with Python, including relevant Python libraries (numpy, scipy and sklearn). 
-     - We highly recommend you go through the pre-reqs refresher Python days (W0D1 and W0D2 [here]( https://compneuro.neuromatch.io/))
+- Some understanding of neuroscience. 
+     - We strongly recommend going through the neuro video series before the course (W0D0 [here]( https://compneuro.neuromatch.io/))
+- Some experience with Python, including relevant Python libraries (numpy, scipy and sklearn). 
+     - We strongly recommend you go through the pre-reqs refresher Python days (W0D1 and W0D2 [here]( https://compneuro.neuromatch.io/))
      - We also include other resources to learn Python on our [Prerequisites and Preparatory Materials page](https://github.com/NeuromatchAcademy/precourse/blob/main/prereqs/ComputationalNeuroscience.md).
 -  Basic knowledge in linear algebra, probability, statistics, and calculus. 
-     - We highly recommend going through our refreshers on linear algebra, calculus, and statistics (W0D3, W0D4, W0D5 [here]( https://compneuro.neuromatch.io/))
+     - We strongly recommend going through our refreshers on linear algebra, calculus, and statistics (W0D3, W0D4, W0D5 [here]( https://compneuro.neuromatch.io/))
 Please consult our [CN Prerequisites and Preparatory Materials page](https://github.com/NeuromatchAcademy/precourse/blob/main/prereqs/ComputationalNeuroscience.md) for more information and suggestions on how to prepare.
 
 ## Qualifications for Deep Learning Course
--    Minimum experience with Python, including relevant Python libraries (numpy, scipy and sklearn). 
-     - We highly recommend going through the Python pre-reqs refresher developed for the comp neuro course: W0D1 and W0D2 [here]( https://compneuro.neuromatch.io/)). Note that it has a neuroscience focus in the examples used but the Python basics will be extremely useful for the deep learning course. 
+-    Experience with Python, including relevant Python libraries (numpy, scipy and sklearn). 
+     - We strongly recommend going through the Python pre-reqs refresher developed for the comp neuro course: W0D1 and W0D2 [here]( https://compneuro.neuromatch.io/)). Note that it has a neuroscience focus in the examples used but the Python basics will be extremely useful for the deep learning course. 
      - We also include other resources to learn Python on our [Prerequisites and Preparatory Materials page](https://github.com/NeuromatchAcademy/precourse/blob/main/prereqs/DeepLearning.md).
 -   Basic knowledge in Linear Algebra, Statistics, and Calculus. 
-     - We highly recommend going through the math pre-reqs refresher developed for the comp neuro course: W0D3, W0D4, and W0D5 [here]( https://compneuro.neuromatch.io/)) Note that these have a neuroscience focus in the examples used but the math basics will be extremely useful for the deep learning course. 
-     - We also include other resources to learn Python on our [Prerequisites and Preparatory Materials page](https://github.com/NeuromatchAcademy/precourse/blob/main/prereqs/DeepLearning.md).
+     - We strongly recommend going through the math pre-reqs refresher developed for the comp neuro course: W0D3, W0D4, and W0D5 [here]( https://compneuro.neuromatch.io/)) Note that these have a neuroscience focus in the examples used but the math basics will be extremely useful for the deep learning course. 
+     - We also include other resources to learn math on our [Prerequisites and Preparatory Materials page](https://github.com/NeuromatchAcademy/precourse/blob/main/prereqs/DeepLearning.md).
 
 ## Qualifications for Computational Tools for Climate Science
 -   Basic knowledge of math skills, chemistry and physics.
