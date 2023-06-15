@@ -1,13 +1,21 @@
 # Prerequisites and preparatory materials for Computational Tools for Climate Science
 
-Welcome to the [Climatematch Academy](https://academy.climatematch.io/about/mission)! (We're really excited to bring the course - Computational Tools for Climate Science to such a wide and varied audience. We have prepared an amazing set of lectures and tutorials for your learning!
+Welcome to the [Climatematch Academy](https://academy.climatematch.io/about/mission)! We're really excited to bring this course to such a wide and varied audience. We want to make sure every student is able to follow and enjoy the academy. This means you need to know the basics of programming in Python, math and science core concepts. Below 👇 we provide more details for each.
 
-## Preparing yourself 
+## Contents
 
-Students in this course come from a wide range of disciplines and with varying levels of academic and professional background, and we want to make sure every student is able to follow and enjoy the academy. This means you need to know the basics of programming in Python, math and science core concepts. Below 👇 we provide more details for each.
+* [Programming](#Programming)
+* [Algebra](#algebra)
+* [Linear Algebra](#linear-algebra)
+* [Statistics](#statistics)
+* [Calculus](#calculus)
+* [Physics](#physics)
+* [Chemistry](#chemistry)
+* [Climate Science](#climate-science)
 
 
-### Programming
+
+## Programming
 
 
 We expect students to be familiar with the following topics in Python: variables, lists, dictionaries, the numpy, matplotlib, cartopy, datetime, pandas and data formats. Students who are not familiar with some of the topics mentioned before, are required to take the **Python pre-course**, which offers asynchronous support for a selection of tutorials [from Project Pythia](https://foundations.projectpythia.org/landing-page.html):
@@ -43,8 +51,8 @@ You will work through the material at your own pace, getting asynchronous help o
 
   
 
-- The section “How to use this book” provides you with alternative options to run the Python code. [https://foundations.projectpythia.org/preamble/how-to-use.html#how-to-use-this-book](https://foundations.projectpythia.org/preamble/how-to-use.html#how-to-use-this-book)
-    
+- The section [“How to use this book”](https://foundations.projectpythia.org/preamble/how-to-use.html#how-to-use-this-book) provides you with alternative options to run the Python code.
+
 - If nothing works, please don’t panic. Sometimes depending on your region, your internet access, and your computer, some challenges may arise, but we will be happy to assist you. Please email  [python_precourse@climatematch.io](mailto:python_precourse@climatematch.io) if you need help.
     
 
@@ -71,7 +79,7 @@ You will work through the material at your own pace, getting asynchronous help o
 If you're coming from a Matlab background, you can quickly get up to speed with [this cheatsheet](https://cheatsheets.quantecon.org/). 
 
 
-### Math 
+## Math 
 
   
 
@@ -79,13 +87,13 @@ Climatematch Academy relies on linear algebra, probability, basic statistics, an
 
   
 
-**Algebra**
->If you need a refresher on basic, pre-calculus algebra check this [Algebra course](https://www.khanacademy.org/math/algebra) from Khan Academy. You will particularly need to know your way around [functions](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:functions) (unit 8 of the course) and their representations, including graphics, because they are the way to express relationships between variables and they are the basic elements you work with in Calculus. 
+### Algebra
+If you need a refresher on basic, pre-calculus algebra check this [Algebra course](https://www.khanacademy.org/math/algebra) from Khan Academy. You will particularly need to know your way around [functions](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:functions) (unit 8 of the course) and their representations, including graphics, because they are the way to express relationships between variables and they are the basic elements you work with in Calculus. 
 
   
 
-**Linear algebra**
->You will need a good grasp of the basics of linear algebra to follow along, as linear algebra is crucial for almost anything quantitative involving more than one number at a time. It will also help you visualize and understand the way data are organized and manipulated, particularly in computational environments. You need to have a basic understanding of vectors and matrices, and how to perform operations with them. We recommend working through these units about [vectors](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:vectors) and [matrices](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:matrices) from Khan Academy. That should be enough to prepare you for CMA. 
+### Linear algebra
+You will need a good grasp of the basics of linear algebra to follow along, as linear algebra is crucial for almost anything quantitative involving more than one number at a time. It will also help you visualize and understand the way data are organized and manipulated, particularly in computational environments. You need to have a basic understanding of vectors and matrices, and how to perform operations with them. We recommend working through these units about [vectors](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:vectors) and [matrices](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:matrices) from Khan Academy. That should be enough to prepare you for CMA. 
 
 > Extra material. 
 >
@@ -93,13 +101,13 @@ Climatematch Academy relies on linear algebra, probability, basic statistics, an
 
   
 
-**Statistics**
-> Understanding statistics is also important; you should be comfortable with mean/median/mode, standard deviations, variances, the normal distribution, and linear regression. We recommend the [Statistics and probability course](https://www.khanacademy.org/math/statistics-probability) (check units 3, 4 and 5) from Khan Academy. 
+### Statistics
+Understanding statistics is also important; you should be comfortable with mean/median/mode, standard deviations, variances, the normal distribution, and linear regression. We recommend the [Statistics and probability course](https://www.khanacademy.org/math/statistics-probability) (check units 3, 4 and 5) from Khan Academy. 
 
   
 
-**Calculus**
-> Finally, basic calculus is crucial; you should know what integrals and derivatives are, and understand what a differential equation means. If you need to refresh your memory on differential and integral calculus, we recommend the [Calculus course](https://www.khanacademy.org/math/calculus-1) from Khan Academy (units 2, 5, 6, and 7). Remember that you don’t need to learn all the details and be able to solve complicated problems, just make sure you understand the concepts. We also recommend [these simulations](https://phet.colorado.edu/en/simulations/filter?subjects=math&levels=university&type=html,prototype) from PHET to help illustrate some mathematical concepts.
+### Calculus
+Finally, basic calculus is crucial; you should know what integrals and derivatives are, and understand what a differential equation means. If you need to refresh your memory on differential and integral calculus, we recommend the [Calculus course](https://www.khanacademy.org/math/calculus-1) from Khan Academy (units 2, 5, 6, and 7). Remember that you don’t need to learn all the details and be able to solve complicated problems, just make sure you understand the concepts. We also recommend [these simulations](https://phet.colorado.edu/en/simulations/filter?subjects=math&levels=university&type=html,prototype) from PHET to help illustrate some mathematical concepts.
 
 > Extra material:
 >  
@@ -107,15 +115,16 @@ Climatematch Academy relies on linear algebra, probability, basic statistics, an
 
   
 
-### Science
+## Science
 
   
 
-**Physics**
-> Climate processes are governed by the laws of physics which is why you will need a general understanding of basic physics concepts such as: Newton’s laws of motion, forms of energy, conservation of energy, circular motion (Earth’s rotation and coriolis force), waves, electromagnetic spectrum, optics, heat and thermodynamics, etc.
-> Recommended references include the [College Physics 1](https://www.khanacademy.org/science/ap-college-physics-1) course from Khan Academy for kinematics, Newton’s laws, dynamics, energy and mechanical waves), the [College Physics 2](https://www.khanacademy.org/science/ap-physics-2) course from Khan Academy for Heat and Thermodynamics (unit 2), electromagnetic waves (unit 6), and optics (unit 7), and [Dave Van Domelen](https://stratus.ssec.wisc.edu/courses/gg101/coriolis/coriolis.html)’s, [Encyclopedia Britannica](https://www.britannica.com/science/Coriolis-force) or [Wikipedia](https://en.wikipedia.org/wiki/Coriolis_force) entries on Coriolis force. 
->
->Remember that you don’t need to learn all the details and be able to solve complicated problems, just make sure you understand the concepts. We also recommend [these simulations](https://phet.colorado.edu/en/simulations/filter?subjects=motion,sound-and-waves,work-energy-and-power,heat-and-thermodynamics,light-and-radiation&levels=university&type=html,prototype) from PHET to help illustrate some concepts.
+### Physics
+Climate processes are governed by the laws of physics which is why you will need a general understanding of basic physics concepts such as: Newton’s laws of motion, forms of energy, conservation of energy, circular motion (Earth’s rotation and coriolis force), waves, electromagnetic spectrum, optics, heat and thermodynamics, etc.
+
+Recommended references include the [College Physics 1](https://www.khanacademy.org/science/ap-college-physics-1) course from Khan Academy for kinematics, Newton’s laws, dynamics, energy and mechanical waves), the [College Physics 2](https://www.khanacademy.org/science/ap-physics-2) course from Khan Academy for Heat and Thermodynamics (unit 2), electromagnetic waves (unit 6), and optics (unit 7), and [Dave Van Domelen](https://stratus.ssec.wisc.edu/courses/gg101/coriolis/coriolis.html)’s, [Encyclopedia Britannica](https://www.britannica.com/science/Coriolis-force) or [Wikipedia](https://en.wikipedia.org/wiki/Coriolis_force) entries on Coriolis force. 
+
+Remember that you don’t need to learn all the details and be able to solve complicated problems, just make sure you understand the concepts. We also recommend [these simulations](https://phet.colorado.edu/en/simulations/filter?subjects=motion,sound-and-waves,work-energy-and-power,heat-and-thermodynamics,light-and-radiation&levels=university&type=html,prototype) from PHET to help illustrate some concepts.
 
  > Extra material:
 >  
@@ -125,8 +134,8 @@ Climatematch Academy relies on linear algebra, probability, basic statistics, an
   
   
 
-**Chemistry**
->It would be help to have general chemistry knowledge regarding atoms, isotopes, molecules, ions, compounds, bonds, etc. We recommend the [College Chemistry course](https://www.khanacademy.org/science/ap-chemistry-beta) (units 1, 2, and 3) from Khan Academy. There is no need to learn all the details and be able to solve complicated problems, just make sure you understand general concepts. We also recommend [these simulations](https://phet.colorado.edu/en/simulations/filter?subjects=general&levels=university&type=html,prototype) from PHET to help illustrate some concepts.
+### Chemistry
+It would be help to have general chemistry knowledge regarding atoms, isotopes, molecules, ions, compounds, bonds, etc. We recommend the [College Chemistry course](https://www.khanacademy.org/science/ap-chemistry-beta) (units 1, 2, and 3) from Khan Academy. There is no need to learn all the details and be able to solve complicated problems, just make sure you understand general concepts. We also recommend [these simulations](https://phet.colorado.edu/en/simulations/filter?subjects=general&levels=university&type=html,prototype) from PHET to help illustrate some concepts.
 
  > Extra material
  > 
@@ -134,9 +143,9 @@ Climatematch Academy relies on linear algebra, probability, basic statistics, an
 
   
 
-**Climate Science**
+### Climate Science
 
->If you're coming from outside climate science, it'll be great to familiarize yourself with fundamental concepts. Watch this [video](https://www.khanacademy.org/science/middle-school-earth-and-space-science/x87d03b443efbea0a:earth-and-society/x87d03b443efbea0a:earths-changing-climate/v/earths-changing-climate), to build some context for CMA. As a good accompanying resource for CMA and if you’d like to learn more about climate science, we highly recommend Andreas Schmitner’s [Introduction to Climate Science](https://open.umn.edu/opentextbooks/textbooks/860) book.
+If you're coming from outside climate science, it'll be great to familiarize yourself with fundamental concepts. Watch this [video](https://www.khanacademy.org/science/middle-school-earth-and-space-science/x87d03b443efbea0a:earth-and-society/x87d03b443efbea0a:earths-changing-climate/v/earths-changing-climate), to build some context for CMA. As a good accompanying resource for CMA and if you’d like to learn more about climate science, we highly recommend Andreas Schmitner’s [Introduction to Climate Science](https://open.umn.edu/opentextbooks/textbooks/860) book.
 
   
   
