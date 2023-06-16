@@ -88,12 +88,12 @@ Climatematch Academy relies on linear algebra, probability, basic statistics, an
   
 
 ### Algebra
-If you need a refresher on basic, pre-calculus algebra check this [Algebra course](https://www.khanacademy.org/math/algebra) from Khan Academy. You will particularly need to know your way around [functions](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:functions) (unit 8 of the course) and their representations, including graphics, because they are the way to express relationships between variables and they are the basic elements you work with in Calculus. 
+If you need a refresher on basic, pre-calculus algebra check the videos in this [Algebra course](https://www.khanacademy.org/math/algebra) from Khan Academy. You will particularly need to know your way around [functions](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:functions) (unit 8 of the course) and their representations, including graphics, because they are the way to express relationships between variables and they are the basic elements you work with in Calculus. 
 
   
 
 ### Linear algebra
-You will need a good grasp of the basics of linear algebra to follow along, as linear algebra is crucial for almost anything quantitative involving more than one number at a time. It will also help you visualize and understand the way data are organized and manipulated, particularly in computational environments. You need to have a basic understanding of vectors and matrices, and how to perform operations with them. We recommend working through these units about [vectors](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:vectors) and [matrices](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:matrices) from Khan Academy. That should be enough to prepare you for CMA. 
+You will need a good grasp of the basics of linear algebra to follow along, as linear algebra is crucial for almost anything quantitative involving more than one number at a time. It will also help you visualize and understand the way data are organized and manipulated, particularly in computational environments. You need to have a basic understanding of vectors and matrices, and how to perform operations with them. We recommend watching the videos in these units about [vectors](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:vectors) and [matrices](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:matrices) from Khan Academy. That should be enough to prepare you for CMA. 
 
 > Extra material. 
 >
@@ -102,12 +102,12 @@ You will need a good grasp of the basics of linear algebra to follow along, as l
   
 
 ### Statistics
-Understanding statistics is also important; you should be comfortable with mean/median/mode, standard deviations, variances, the normal distribution, and linear regression. We recommend the [Statistics and probability course](https://www.khanacademy.org/math/statistics-probability) (check units 3, 4 and 5) from Khan Academy. 
+Understanding statistics is also important; you should be comfortable with mean/median/mode, standard deviations, variances, the normal distribution, and linear regression. We recommend the [Statistics and probability course](https://www.khanacademy.org/math/statistics-probability) (videos in units 3, 4 and 5) from Khan Academy. 
 
   
 
 ### Calculus
-Finally, basic calculus is crucial; you should know what integrals and derivatives are, and understand what a differential equation means. If you need to refresh your memory on differential and integral calculus, we recommend the [Calculus course](https://www.khanacademy.org/math/calculus-1) from Khan Academy (units 2, 5, 6, and 7). Remember that you don’t need to learn all the details and be able to solve complicated problems, just make sure you understand the concepts. We also recommend [these simulations](https://phet.colorado.edu/en/simulations/filter?subjects=math&levels=university&type=html,prototype) from PHET to help illustrate some mathematical concepts.
+Finally, basic calculus is crucial; you should know what integrals and derivatives are, and understand what a differential equation means. If you need to refresh your memory on differential and integral calculus, we recommend the [Calculus course](https://www.khanacademy.org/math/calculus-1) from Khan Academy (videos in units 2, 5, 6, and 7). Remember that you don’t need to learn all the details and be able to solve complicated problems, just make sure you understand the concepts. We also recommend [these simulations](https://phet.colorado.edu/en/simulations/filter?subjects=math&levels=university&type=html,prototype) from PHET to help illustrate some mathematical concepts.
 
 > Extra material:
 >  
@@ -122,7 +122,7 @@ Finally, basic calculus is crucial; you should know what integrals and derivativ
 ### Physics
 Climate processes are governed by the laws of physics which is why you will need a general understanding of basic physics concepts such as: Newton’s laws of motion, forms of energy, conservation of energy, circular motion (Earth’s rotation and Coriolis force), waves, electromagnetic spectrum, optics, heat, and thermodynamics, etc.
 
-Recommended references include the videos from the [College Physics 1](https://www.khanacademy.org/science/ap-college-physics-1) course from Khan Academy for kinematics, Newton’s laws, dynamics, energy, and mechanical waves), the [College Physics 2](https://www.khanacademy.org/science/ap-physics-2) course from Khan Academy for Heat and Thermodynamics (unit 2), electromagnetic waves (unit 6), and optics (unit 7), and [Dave Van Domelen](https://stratus.ssec.wisc.edu/courses/gg101/coriolis/coriolis.html)’s, [Encyclopedia Britannica](https://www.britannica.com/science/Coriolis-force) or [Wikipedia](https://en.wikipedia.org/wiki/Coriolis_force) entries on Coriolis force. 
+Recommended references include the videos from the [College Physics 1](https://www.khanacademy.org/science/ap-college-physics-1) course from Khan Academy for kinematics, Newton’s laws, dynamics, energy, and mechanical waves), the videos from the [College Physics 2](https://www.khanacademy.org/science/ap-physics-2) course from Khan Academy for Heat and Thermodynamics (unit 2), electromagnetic waves (unit 6), and optics (unit 7), and [Dave Van Domelen](https://stratus.ssec.wisc.edu/courses/gg101/coriolis/coriolis.html)’s, [Encyclopedia Britannica](https://www.britannica.com/science/Coriolis-force) or [Wikipedia](https://en.wikipedia.org/wiki/Coriolis_force) entries on Coriolis force. 
 
 Remember that you don’t need to learn all the details and be able to solve complicated problems, just make sure you understand the concepts. We also recommend [these simulations](https://phet.colorado.edu/en/simulations/filter?subjects=motion,sound-and-waves,work-energy-and-power,heat-and-thermodynamics,light-and-radiation&levels=university&type=html,prototype) from PHET to help illustrate some concepts.
 
@@ -135,7 +135,7 @@ Remember that you don’t need to learn all the details and be able to solve com
   
 
 ### Chemistry
-It would be helpful to have general chemistry knowledge regarding atoms, isotopes, molecules, ions, compounds, bonds, etc. We recommend the [College Chemistry course](https://www.khanacademy.org/science/ap-chemistry-beta) (units 1, 2, and 3) from Khan Academy. There is no need to learn all the details and be able to solve complicated problems, just make sure you understand general concepts. We also recommend [these simulations](https://phet.colorado.edu/en/simulations/filter?subjects=general&levels=university&type=html,prototype) from PHET to help illustrate some concepts.
+It would be helpful to have general chemistry knowledge regarding atoms, isotopes, molecules, ions, compounds, bonds, etc. We recommend the [College Chemistry course](https://www.khanacademy.org/science/ap-chemistry-beta) (videos in units 1, 2, and 3) from Khan Academy. There is no need to learn all the details and be able to solve complicated problems, just make sure you understand general concepts. We also recommend [these simulations](https://phet.colorado.edu/en/simulations/filter?subjects=general&levels=university&type=html,prototype) from PHET to help illustrate some concepts.
 
  > Extra material:
  > 
