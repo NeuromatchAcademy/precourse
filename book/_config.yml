@@ -8,7 +8,7 @@
 title                       : "Neuromatch Academy: Precourse"  # The title of the book. Will be placed in the left navbar.
 author                      : Neuromatch  # The author of the book
 copyright                   : ""  # Copyright year to be placed in the footer
-logo                        : nma-logo-square-4xp.jpg  # A path to the book logo
+logo                        : nma_logo.jpg  # A path to the book logo
 only_build_toc_files        : true
 
 
