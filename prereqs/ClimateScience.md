@@ -97,7 +97,7 @@ You will need a good grasp of the basics of linear algebra to follow along, as l
 
 > Extra material. 
 >
->If you get curious and want to build a strong background in linear algebra, we recommend [W0D3](https://compneuro.neuromatch.io/tutorials/W0D3_LinearAlgebra/chapter_title.html) from Neuromatch Academy, or this [beautiful lecture series](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab). Another great resource is this [Linear Algebra Course](https://www.khanacademy.org/math/linear-algebra) from Khan academy. Here is a series of exercises on [linear algebra in Python](https://www.w3resource.com/python-exercises/numpy/linear-algebra/index.php).
+>If you get curious and want to build a strong background in linear algebra, we recommend [W0D3](https://compneuro.neuromatch.io/tutorials/W0D3_LinearAlgebra/chapter_title.html) from Neuromatch Academy, or this [beautiful lecture series](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab). Another great resource is this [Linear Algebra Course](https://www.khanacademy.org/math/linear-algebra) from Khan Academy. Here is a series of exercises on [linear algebra in Python](https://www.w3resource.com/python-exercises/numpy/linear-algebra/index.php).
 
   
 
@@ -120,9 +120,9 @@ Finally, basic calculus is crucial; you should know what integrals and derivativ
   
 
 ### Physics
-Climate processes are governed by the laws of physics which is why you will need a general understanding of basic physics concepts such as: Newton’s laws of motion, forms of energy, conservation of energy, circular motion (Earth’s rotation and coriolis force), waves, electromagnetic spectrum, optics, heat and thermodynamics, etc.
+Climate processes are governed by the laws of physics which is why you will need a general understanding of basic physics concepts such as: Newton’s laws of motion, forms of energy, conservation of energy, circular motion (Earth’s rotation and Coriolis force), waves, electromagnetic spectrum, optics, heat, and thermodynamics, etc.
 
-Recommended references include the [College Physics 1](https://www.khanacademy.org/science/ap-college-physics-1) course from Khan Academy for kinematics, Newton’s laws, dynamics, energy and mechanical waves), the [College Physics 2](https://www.khanacademy.org/science/ap-physics-2) course from Khan Academy for Heat and Thermodynamics (unit 2), electromagnetic waves (unit 6), and optics (unit 7), and [Dave Van Domelen](https://stratus.ssec.wisc.edu/courses/gg101/coriolis/coriolis.html)’s, [Encyclopedia Britannica](https://www.britannica.com/science/Coriolis-force) or [Wikipedia](https://en.wikipedia.org/wiki/Coriolis_force) entries on Coriolis force. 
+Recommended references include the [College Physics 1](https://www.khanacademy.org/science/ap-college-physics-1) course from Khan Academy for kinematics, Newton’s laws, dynamics, energy, and mechanical waves), the [College Physics 2](https://www.khanacademy.org/science/ap-physics-2) course from Khan Academy for Heat and Thermodynamics (unit 2), electromagnetic waves (unit 6), and optics (unit 7), and [Dave Van Domelen](https://stratus.ssec.wisc.edu/courses/gg101/coriolis/coriolis.html)’s, [Encyclopedia Britannica](https://www.britannica.com/science/Coriolis-force) or [Wikipedia](https://en.wikipedia.org/wiki/Coriolis_force) entries on Coriolis force. 
 
 Remember that you don’t need to learn all the details and be able to solve complicated problems, just make sure you understand the concepts. We also recommend [these simulations](https://phet.colorado.edu/en/simulations/filter?subjects=motion,sound-and-waves,work-energy-and-power,heat-and-thermodynamics,light-and-radiation&levels=university&type=html,prototype) from PHET to help illustrate some concepts.
 
@@ -135,11 +135,11 @@ Remember that you don’t need to learn all the details and be able to solve com
   
 
 ### Chemistry
-It would be help to have general chemistry knowledge regarding atoms, isotopes, molecules, ions, compounds, bonds, etc. We recommend the [College Chemistry course](https://www.khanacademy.org/science/ap-chemistry-beta) (units 1, 2, and 3) from Khan Academy. There is no need to learn all the details and be able to solve complicated problems, just make sure you understand general concepts. We also recommend [these simulations](https://phet.colorado.edu/en/simulations/filter?subjects=general&levels=university&type=html,prototype) from PHET to help illustrate some concepts.
+It would be helpful to have general chemistry knowledge regarding atoms, isotopes, molecules, ions, compounds, bonds, etc. We recommend the [College Chemistry course](https://www.khanacademy.org/science/ap-chemistry-beta) (units 1, 2, and 3) from Khan Academy. There is no need to learn all the details and be able to solve complicated problems, just make sure you understand general concepts. We also recommend [these simulations](https://phet.colorado.edu/en/simulations/filter?subjects=general&levels=university&type=html,prototype) from PHET to help illustrate some concepts.
 
- > Extra material
+ > Extra material:
  > 
- >For additional reading , we also recommend Flowers, Theopold, Langley, and Robinson’s [Chemistry 2e](https://openstax.org/details/books/chemistry-2e) book (sections 1.2, 1.3, 2.3-2.6, 2.7 is optional). 
+ >For additional reading, we also recommend Flowers, Theopold, Langley, and Robinson’s [Chemistry 2e](https://openstax.org/details/books/chemistry-2e) book (sections 1.2, 1.3, 2.3-2.6, 2.7 is optional). 
 
   
 
