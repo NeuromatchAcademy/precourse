@@ -69,7 +69,7 @@ Please consult our [CN Prerequisites and Preparatory Materials page](https://git
      - Datetime
      - Pandas
      - Data formats
--  We will keep you updated about additional resources to refresh your foundational knowledge in math, physics, and chemistry on our **Prerequisites and Preparatory Materials page**. Coming soon!
+-  Go to our **Prerequisites and Preparatory Materials page**.(https://github.com/NeuromatchAcademy/precourse/blob/main/prereqs/ClimateScience.md)to refresh your foundational knowledge in programming, math, and science.
      
 ## Evaluations:
 
