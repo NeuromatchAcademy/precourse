@@ -18,14 +18,18 @@ Welcome to the [Climatematch Academy](https://academy.climatematch.io/about/miss
 ## Programming
 
 
-We expect students to be familiar with the following topics in Python: variables, lists, dictionaries, the numpy, matplotlib, cartopy, datetime, pandas and data formats. Students who are not familiar with some of the topics mentioned before, are required to take the **Python pre-course**, which offers asynchronous support for a selection of tutorials [from Project Pythia](https://foundations.projectpythia.org/landing-page.html):
+We expect students to be familiar with the following topics in Python: variables, lists, dictionaries, the numpy, matplotlib, cartopy, datetime, pandas and data formats. Students who are not familiar with some of the topics mentioned before, are required to take the **Python pre-course**, which offers asynchronous support for a selection of tutorials from Project Pythia. 
 
-- Preamble and Foundational Skills: Overview, Why Python, Quickstart: Zero to Python (under the heading “Getting Started with Python”), JupyterLab (under the heading “Getting Started with Jupyter”), What is Github (under the heading “Getting Started with GitHub”) (~3.5 hours)
+What is Project Pythia? Check out the fantastic [~5min video](https://bit.ly/42P799Y) that Julia Kent prepared for you as an intro to this fabulous material.
+
+Now, let's sumarize what are the lessons you need to review:
+
+- [Preamble and Foundational Skills](https://bit.ly/4429kYQ): Overview, Why Python, Quickstart: Zero to Python (under the heading “Getting Started with Python”), JupyterLab (under the heading “Getting Started with Jupyter”), What is Github (under the heading “Getting Started with GitHub”) (~3.5 hours)
     
 - Core Scientific Python Packages: NumPy, Matplotlib, Cartopy, Datetime, Pandas, Data formats (~6 hours). Xarray will be a part of the course Computational Tools for Climate Science, so you do not need to learn it beforehand.
     
 
-- Here [is a breakdown of times per lesson](https://docs.google.com/spreadsheets/d/e/2PACX-1vRzeCfv_gIISMIp3ef6e_cB4ZcI1mGkI5H6ZHZO5moFTrnGCMQHyfVCVikb09PmDs4GNBTSgNDWsPwQ/pubhtml?gid=0&single=true). The topics highlighted in blue are the only mandatory lessons that we expected you have covered in preparation for the course Computational Tools for Climate Science. 
+- Here [is a breakdown of times per lesson](https://bit.ly/3CHhjid). The topics highlighted in blue are the only mandatory lessons that we expected you have covered in preparation for the course Computational Tools for Climate Science. 
     
 
   
@@ -47,7 +51,9 @@ You will work through the material at your own pace, getting asynchronous help o
  - For those without any previous programming background, it is crucial to start studying the material well in advance. We recommend beginning as early as possible to ensure you have ample time to cover the content. Practice every day and you'll be in great shape before July 17th.
     
 - You won't need to install Python on your computer for the Python pre-course. You literally just need to hit the rocket-shaped button in the upper right corner of the lessons (see image below) and sign in using your Github account. 
-    
+![Launch Binder](../images/binder.png)
+
+ 
 
   
 
@@ -88,12 +94,12 @@ Climatematch Academy relies on linear algebra, probability, basic statistics, an
   
 
 ### Algebra
-If you need a refresher on basic, pre-calculus algebra check the videos in this [Algebra course](https://www.khanacademy.org/math/algebra) from Khan Academy. You will particularly need to know your way around [functions](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:functions) (unit 8 of the course) and their representations, including graphics, because they are the way to express relationships between variables and they are the basic elements you work with in Calculus. 
+If you need a refresher on basic, pre-calculus algebra check the videos in this [Algebra course](https://bit.ly/3Pnq5cP) from Khan Academy. You will particularly need to know your way around [functions](https://bit.ly/43H5mox) (unit 8 of the course) and their representations, including graphics, because they are the way to express relationships between variables and they are the basic elements you work with in Calculus. 
 
   
 
 ### Linear algebra
-You will need a good grasp of the basics of linear algebra to follow along, as linear algebra is crucial for almost anything quantitative involving more than one number at a time. It will also help you visualize and understand the way data are organized and manipulated, particularly in computational environments. You need to have a basic understanding of vectors and matrices, and how to perform operations with them. We recommend watching the videos in these units about [vectors](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:vectors) and [matrices](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:matrices) from Khan Academy. That should be enough to prepare you for CMA. 
+You will need a good grasp of the basics of linear algebra to follow along, as linear algebra is crucial for almost anything quantitative involving more than one number at a time. It will also help you visualize and understand the way data are organized and manipulated, particularly in computational environments. You need to have a basic understanding of vectors and matrices, and how to perform operations with them. We recommend watching the videos in these units about [vectors](https://bit.ly/3NcM2IK) and [matrices](https://bit.ly/3CDXurX) from Khan Academy. That should be enough to prepare you for CMA. 
 
 > Extra material. 
 >
@@ -102,12 +108,12 @@ You will need a good grasp of the basics of linear algebra to follow along, as l
   
 
 ### Statistics
-Understanding statistics is also important; you should be comfortable with mean/median/mode, standard deviations, variances, the normal distribution, and linear regression. We recommend the [Statistics and probability course](https://www.khanacademy.org/math/statistics-probability) (videos in units 3, 4 and 5) from Khan Academy. 
+Understanding statistics is also important; you should be comfortable with mean/median/mode, standard deviations, variances, the normal distribution, and linear regression. We recommend the [Statistics and probability course](https://bit.ly/3CGx6h2) (videos in units 3, 4 and 5) from Khan Academy. 
 
   
 
 ### Calculus
-Finally, basic calculus is crucial; you should know what integrals and derivatives are, and understand what a differential equation means. If you need to refresh your memory on differential and integral calculus, we recommend the [Calculus course](https://www.khanacademy.org/math/calculus-1) from Khan Academy (videos in units 2, 5, 6, and 7). Remember that you don’t need to learn all the details and be able to solve complicated problems, just make sure you understand the concepts. We also recommend [these simulations](https://phet.colorado.edu/en/simulations/filter?subjects=math&levels=university&type=html,prototype) from PHET to help illustrate some mathematical concepts.
+Finally, basic calculus is crucial; you should know what integrals and derivatives are, and understand what a differential equation means. If you need to refresh your memory on differential and integral calculus, we recommend the [Calculus course](https://bit.ly/3Nk4sXV) from Khan Academy (videos in units 2, 5, 6, and 7). Remember that you don’t need to learn all the details and be able to solve complicated problems, just make sure you understand the concepts. We also recommend [these simulations](https://phet.colorado.edu/en/simulations/filter?subjects=math&levels=university&type=html,prototype) from PHET to help illustrate some mathematical concepts.
 
 > Extra material:
 >  
@@ -145,7 +151,7 @@ It would be helpful to have general chemistry knowledge regarding atoms, isotope
 
 ### Climate Science
 
-If you're coming from outside climate science, it'll be great to familiarize yourself with fundamental concepts. Watch this [video](https://www.khanacademy.org/science/middle-school-earth-and-space-science/x87d03b443efbea0a:earth-and-society/x87d03b443efbea0a:earths-changing-climate/v/earths-changing-climate), to build some context for CMA. As a good accompanying resource for CMA and if you’d like to learn more about climate science, we highly recommend Andreas Schmitner’s [Introduction to Climate Science](https://open.umn.edu/opentextbooks/textbooks/860) book.
+If you're coming from outside climate science, it'll be great to familiarize yourself with fundamental concepts. Watch this [video](https://bit.ly/3NEDdsJ), to build some context for CMA. As a good accompanying resource for CMA and if you’d like to learn more about climate science, we highly recommend Andreas Schmitner’s [Introduction to Climate Science](https://open.umn.edu/opentextbooks/textbooks/860) book.
 
   
   
