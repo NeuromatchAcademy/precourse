@@ -18,7 +18,11 @@ Welcome to the [Climatematch Academy](https://academy.climatematch.io/about/miss
 ## Programming
 
 
-We expect students to be familiar with the following topics in Python: variables, lists, dictionaries, the numpy, matplotlib, cartopy, datetime, pandas and data formats. Students who are not familiar with some of the topics mentioned before, are required to take the **Python pre-course**, which offers asynchronous support for a selection of tutorials [from Project Pythia](https://bit.ly/42P799Y):
+We expect students to be familiar with the following topics in Python: variables, lists, dictionaries, the numpy, matplotlib, cartopy, datetime, pandas and data formats. Students who are not familiar with some of the topics mentioned before, are required to take the **Python pre-course**, which offers asynchronous support for a selection of tutorials from Project Pythia. 
+
+What is Project Pythia? Check out the fantastic [~5min video](https://bit.ly/42P799Y) that Julia Kent prepared for you as an intro to this fabulous material.
+
+Now, let's sumarize what are the lessons you need to review:
 
 - [Preamble and Foundational Skills](https://bit.ly/4429kYQ): Overview, Why Python, Quickstart: Zero to Python (under the heading “Getting Started with Python”), JupyterLab (under the heading “Getting Started with Jupyter”), What is Github (under the heading “Getting Started with GitHub”) (~3.5 hours)
     
