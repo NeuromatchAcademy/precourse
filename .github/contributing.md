@@ -4,7 +4,7 @@ Thank you very much for helping to make Neuromatch Academy (NMA) content better!
 
 Please read through these guidelines before reporting your issue.
 
-## Please open issues, naot pull requests
+## Please open issues, not pull requests
 
 What you see on Github is just the tip of the content creation and review iceberg at Neuromatch Academy. Most modifications to content should be made with the original content creators (and potentially reviewers) in the loop, and many are unfamilar with Github. Therefore, while we very much appreciate your willingness and desire to step in and help, **please report all problems with content as issues, not pull requests**. While the course content is being finalized, we will be closing all external pull requests and asking the submitter to reformulate as an issue. This helps us keep the PR queue clear so that we can work efficiently on the high-priority content. Thank you for understanding.
 
