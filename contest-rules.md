@@ -1,4 +1,4 @@
-# Academy's Got Talent 2022 
+# Academy's Got Talent 2023 
 ## Terms & Conditions
 
 Here is some more information for each contest category:
