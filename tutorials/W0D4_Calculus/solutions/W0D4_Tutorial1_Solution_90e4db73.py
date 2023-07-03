@@ -14,4 +14,4 @@ Now we can use the chain rule:
 dr/da = dr/dt * dt/da
       = e^t(4a^3)
       = 4a^3e^{a^4 + 1}
-"""
+""";
