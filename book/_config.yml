@@ -30,6 +30,7 @@ parse:
     - amsmath
     - dollarmath
     - html_image
+    - substitution
 sphinx:
   config:
     html_show_copyright: false
