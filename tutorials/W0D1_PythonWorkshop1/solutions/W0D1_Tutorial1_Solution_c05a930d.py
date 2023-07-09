@@ -50,10 +50,10 @@ with plt.xkcd():
     # Plot sample mean using alpha=0.8 and'C0.' for blue
     plt.plot(t, v_mean, 'C0.', alpha=0.8, markersize=10)
 
-    # Plot mean + standard deviation with alpha=0.8 and argument 'C7'
+    # Plot mean + standard deviation with alpha=0.8 and argument 'C7.'
     plt.plot(t, v_mean + v_std, 'C7.', alpha=0.8)
 
-    # Plot mean - standard deviation with alpha=0.8 and argument 'C7'
+    # Plot mean - standard deviation with alpha=0.8 and argument 'C7.'
     plt.plot(t, v_mean - v_std, 'C7.', alpha=0.8)
 
 
