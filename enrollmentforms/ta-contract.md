@@ -3,6 +3,11 @@ TAs for Neuromatch Academy are expected to guide the students’ through the Aca
 
 TAs are required to be respectful and understanding of differences in students’ expertise and cultural differences. Please review the [code of conduct](https://github.com/NeuromatchAcademy/precourse/blob/master/CODE_OF_CONDUCT.md).
 
+## Comp Neuro Pilot Course TA Expectations (January 22 - February 9, 2024) 
+- Please review the details below about TA expectations. All TA expectations are the same for the Pilot as our other courses *except* for the schedule. TAs will work 3 hours/day, Monday-Friday for 3 weeks.
+- TAs are able to create their own schedule based on their availability. TAs are required to be available for 1 hour and 20 minutes between the hours of 13:00 - 16:00 UTC, and for 40 minutes between the hours of 17:00 - 21:30 UTC. You will submit your schedule to the organizers before the course, and this will be shared with the students. You are expected to keep the schedule you provide before the course starts. Any changes will need to be coordinated with Neuromatch staff and communicated to your students.
+- The additional hour of paid time should be used to prepare for the content and answer student questions via Discord. 
+
 ## Role
 - TAs will make sure that students progress well in the tutorial material. As problem-based learning “tutors”, you will
 - Provide support, empathy and inspiration
@@ -29,7 +34,7 @@ With questions such as “did you consider [this]?”
 - Knowledge in physics, chemistry, and statistics.
 
 
-## Academy expectations (July 10-28  for Comp Neuro and Deep Learning, July 17-28 for Comp Tools for Climate Science); 7-8h / day)
+## Academy expectations; (7-8h / day)
 - Regular TAs are expected to:
     - Prepare for each day's material (i.e., go through the tutorials, be prepared to explain important concepts in the tutorials, be prepared to guide students through exercises if needed, be prepared to explain exercises to students if they are stuck)
     - Accompany students during the 4.5-h lecture/tutorial modules every day during coursework time. 
@@ -39,7 +44,7 @@ With questions such as “did you consider [this]?”
     - Work in several projects times and spend about 1 hour/group/day for project-related guidance
 - [See times here.](https://neuromatchacademy.github.io/widgets/tz.html)
 
-### Mandatory TA training (July 5 & 6, ~2h /day live on Zoom, additional ~6 hours asynchronously)
+### Mandatory TA training (~2h /day live on Zoom, additional ~6 hours asynchronously)
 We will train TAs in the following:
 - Tutorial materials: so they know the ins and outs of the solutions
 - Tutoring: so they know how to facilitate their students’ independent learning instead of just providing answers
