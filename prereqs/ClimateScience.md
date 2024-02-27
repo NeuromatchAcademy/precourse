@@ -1,6 +1,6 @@
 # Prerequisites and preparatory materials for Computational Tools for Climate Science
 
-Welcome to the [Climatematch Academy](https://academy.climatematch.io/about/mission)! We're really excited to bring this course to such a wide and varied audience. We want to make sure every student is able to follow and enjoy the academy. This means you need to know the basics of programming in Python, math and science core concepts. Below 👇 we provide more details for each.
+Welcome to the [Climatematch Academy](https://neuromatch.io/computational-neuroscience-course/)! We're really excited to bring this course to such a wide and varied audience. We want to make sure every student is able to follow and enjoy the academy. This means you need to know the basics of programming in Python, math and science core concepts. Below 👇 we provide more details for each.
 
 ## Contents
 
@@ -18,7 +18,7 @@ Welcome to the [Climatematch Academy](https://academy.climatematch.io/about/miss
 ## Programming
 
 
-We expect students to be familiar with the following topics in Python: variables, lists, dictionaries, the numpy, matplotlib, cartopy, datetime, pandas and data formats. Students who are not familiar with some of the topics mentioned before, are required to take the **Python pre-course**, which offers asynchronous support for a selection of tutorials from Project Pythia. 
+We expect students to be familiar with the following topics in Python: variables, lists, dictionaries, the numpy, matplotlib, cartopy, datetime, pandas and data formats. Students who are not familiar with some of the topics mentioned before, are required to take the self-guided **Python pre-course** utilizing Project Pythia's materials. 
 
 What is Project Pythia? Check out the fantastic [~5min video](https://bit.ly/42P799Y) that Julia Kent prepared for you as an intro to this fabulous material.
 
@@ -32,49 +32,21 @@ Now, let's sumarize what are the lessons you need to review:
 - Here [is a breakdown of times per lesson](https://bit.ly/3CHhjid). The topics highlighted in blue are the only mandatory lessons that we expected you have covered in preparation for the course Computational Tools for Climate Science. 
     
 
-  
-
-You will work through the material at your own pace, getting asynchronous help on Discord as needed during July 12-14. To ensure clarity and set proper expectations, let’s revisit what you can expect from the **Python pre-course** and what you should not expect.
-
 **What You Can Expect from the Python pre-course**
 
-- Asynchronous Support via Discord: Throughout the duration of the precourse, (July 12-14), our team will provide support through the Discord platform. You will have the opportunity to ask questions and seek assistance via chat. Please note that we will not be conducting any video calls or virtual classes during the Python pre-course.
-    
-
-  
+- The pre-course is completely self-guided and to be done on your own time.
 
 - Self-Study Approach: The precourse is not designed as a traditional course with lectures and guided lessons. Instead, we have curated a collection of comprehensive learning materials for you to study independently. These materials are accessible through the link provided. It is essential that you dedicate sufficient time and effort to self-study the content at your own pace.
     
 - Prior Programming Experience Advantage: If you have prior experience in programming, you may find this precourse relatively easier to grasp. 
     
 
- - For those without any previous programming background, it is crucial to start studying the material well in advance. We recommend beginning as early as possible to ensure you have ample time to cover the content. Practice every day and you'll be in great shape before July 17th.
+ - For those without any previous programming background, it is crucial to start studying the material well in advance. We recommend beginning as early as possible to ensure you have ample time to cover the content. Practice every day and you'll be in great shape before the start of the course.
     
 - You won't need to install Python on your computer for the Python pre-course. You literally just need to hit the rocket-shaped button in the upper right corner of the lessons (see image below) and sign in using your Github account. 
 ![Launch Binder](../images/binder.png)
 
- 
-
-  
-
 - The section [“How to use this book”](https://foundations.projectpythia.org/preamble/how-to-use.html#how-to-use-this-book) provides you with alternative options to run the Python code.
-
-- If nothing works, please don’t panic. Sometimes depending on your region, your internet access, and your computer, some challenges may arise, but we will be happy to assist you. Please email  [python_precourse@climatematch.io](mailto:python_precourse@climatematch.io) if you need help.
-    
-
-**What You Should Not Expect  from the Python pre-course**
-
-- Guided Instruction: Please be aware that the Python precourse does not include virtual online classes or guided instruction. While our team will be available for support via Discord chat during July 12-14, the onus is on you to study the material independently and seek clarification as needed.
-    
-
-  
-
-- Traditional Classroom Environment: Unlike traditional courses where you attend classes and follow a set schedule, the precourse relies on your self-motivation and discipline to study the provided materials. There will not be any fixed class times or mandatory attendance.
-    
-
-  
-
-- In-depth Coverage of Advanced Topics: The Python pre-course primarily focuses on introducing the fundamentals of Python programming. It does not delve into advanced topics.
     
 
   
