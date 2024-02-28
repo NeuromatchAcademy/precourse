@@ -18,3 +18,5 @@ We rely on linear algebra, probability, basic statistics, and multivariable calc
 **Statistics:** You should be comfortable with means and variances, and the normal distribution. You should be familiar with linear regression and cross-validation.
 **Calculus:** You should know what integrals and derivatives are, and understand what a differential equation means.
 The Neuromatch Academy team.
+### Resources for learning PyTorch
+https://pytorch.org/tutorials/
