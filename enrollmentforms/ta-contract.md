@@ -3,11 +3,6 @@ TAs for Neuromatch Academy are expected to guide the students’ through the Aca
 
 TAs are required to be respectful and understanding of differences in students’ expertise and cultural differences. Please review the [code of conduct](https://github.com/NeuromatchAcademy/precourse/blob/master/CODE_OF_CONDUCT.md).
 
-## Comp Neuro Pilot Course TA Expectations (January 22 - February 9, 2024) 
-- Please review the details below about TA expectations. All TA expectations are the same for the Pilot as our other courses *except* for the schedule. TAs will work 3 hours/day, Monday-Friday for 3 weeks.
-- TAs are able to create their own schedule based on their availability. TAs are required to be available for 1 hour and 20 minutes between the hours of 13:00 - 16:00 UTC, and for 40 minutes between the hours of 17:00 - 21:30 UTC. You will submit your schedule to the organizers before the course, and this will be shared with the students. You are expected to keep the schedule you provide before the course starts. Any changes will need to be coordinated with Neuromatch staff and communicated to your students.
-- The additional hour of paid time should be used to prepare for the content and answer student questions via Discord. 
-
 ## Role
 - TAs will make sure that students progress well in the tutorial material. As problem-based learning “tutors”, you will
 - Provide support, empathy and inspiration
@@ -27,6 +22,11 @@ With questions such as “did you consider [this]?”
 - Some exposure to neuroscience concepts
     - If you are new to neuroscience, we will have precourse material on neuroscience that is *mandatory* for you to watch (~2 hours of content). We also recommend watching videos 1.1-1.6 and 2.1-2.4 from this [coursera course](https://www.coursera.org/learn/computational-neuroscience). Here is also a [short read on neuroscience](https://www.bna.org.uk/static/uploads/resources/BNA_English.pdf).
 
+### NeuroAI Qualifications: 
+- Experience with the relevant python libraries (numpy, scipy and sklearn)
+- Minimum 2-years of experience in computational neuroscience and AI
+- Strong preference for TAs who have participated in our CN or DL course 
+
 ### Computational Tools for Climate Science: 
 - Experience with the relevant python libraries (Numpy, Matplotlib, Pandas, Cartopy, Datetime, Dataformats)
     - Python resources can be found through [Project Pythia](https://foundations.projectpythia.org/foundations/overview.html).
@@ -38,9 +38,9 @@ With questions such as “did you consider [this]?”
 - Regular TAs are expected to:
     - Prepare for each day's material (i.e., go through the tutorials, be prepared to explain important concepts in the tutorials, be prepared to guide students through exercises if needed, be prepared to explain exercises to students if they are stuck)
     - Accompany students during the 4.5-h lecture/tutorial modules every day during coursework time. 
-    - Meet for 1h/group/day for project-related guidance during the projects time. 
+    - Meet for 1h/group/day for project-related guidance during the projects time (total of 2 hours). 
 - Project TAs are expected to: 
-    - Prepare to help with data set and proejct understanding by fully looking over the materials
+    - Prepare to help with data set and project understanding by fully looking over the materials
     - Work in several projects times and spend about 1 hour/group/day for project-related guidance
 - [See times here.](https://neuromatchacademy.github.io/widgets/tz.html)
 
@@ -49,26 +49,17 @@ We will train TAs in the following:
 - Tutorial materials: so they know the ins and outs of the solutions
 - Tutoring: so they know how to facilitate their students’ independent learning instead of just providing answers
 - Training on online tools for teaching
-- [See times here.](https://neuromatchacademy.github.io/widgets/tz.html)
 - *Lead TAs will have additional mandatory training.*
+- Dates will be provided closer to the course.
 
 ### Evaluations
-TA pods will be evaluated every day during the course with very short (~2 questions) surveys. This is to make sure that pods are coherent and to ensure that TAs are able to teach the course. Not just TAs will be evaluated here, students will also be able to evaluate other students in terms of their cooperative attitude and their potential disruptiveness. For a subset of pods, with the permission of the TAs and the students, we will save transcripts of the pod discussions on each day for the purpose of improving NMA in future years (no audio or video will be recorded, just automatic voice-to-text transcripts).
+TA pods will be evaluated every day during the course with very short (~2-5 questions) surveys. This is to make sure that pods are coherent and to ensure that TAs are able to teach the course. Not just TAs will be evaluated here, students will also be able to evaluate other students in terms of their cooperative attitude and their potential disruptiveness. 
 
 #### Problem-based learning references:
 https://www.sciencedirect.com/science/article/pii/S1607551X08700925
 https://www.sciencedirect.com/science/article/pii/S1877050918311955
 
 ## Payment: 
-We have some resources to help you understand how hiring and payment work.
-- Questions about how you can be paid based on your institution, country, or legal status can largely be answered by this [flowchart](https://docs.google.com/document/d/1cXZf7PHJpd5rrf6R6gIC0vEA4ZsGoMDqr6H_S_N_2AI/edit).
-- Questions about payment logistics (bank account information etc.) can largely be answered in this [“How do I get paid?” document](https://docs.google.com/document/d/1vOR772U5XKBpMkSxH3scwGqXa_laJeqRkrNKnP94g4U/edit?usp=sharing). You will also be redirected to this page after you fill out the TA onboarding agreement. 
-- Questions about which tax forms you have to fill out will largely be answered by the dynamic onboarding form. Unfortunately, we cannot help you fill out tax documents, so if you have specific questions about your country or employment status that are not answered by the flowchart or the “How do I get paid?” document, you will need to ask an accountant or someone at your home institution or company.
-- If you have gone through all these resources and you still have questions, you can email nma@neuromatch.io and we will get back to you as soon as we can.
+- You will be prompted to fill out the required payment forms in the Portal when you accept you offer. If you have addition questions on payment, please email support@neuromatch.io.
+- All payments are processed after the course if complete. 
 
-**Regular TAs will be paid at the approximate base rate of $550 (USD) per week for service during the course ($1650 stipend total for Comp Neuro and Deep Learning, $1100 for Comp Tools for Climate Science).** 
-
-*Lead TAs receive an additional fixed $550 ($2200 stipend total for Comp Neuro and Deep Learning, $1650 for Comp Tools for Climate Science). 
-).* 
-
-We will pay all TAs at the end of the course, but can provide some payment during the course if needed. Please let us know if payment for teaching the course is urgent for you in your current circumstances. 
