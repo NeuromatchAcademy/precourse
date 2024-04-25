@@ -1,6 +1,6 @@
 # Prerequisites and preparatory materials for Computational Tools for Climate Science
 
-Welcome to the [Climatematch Academy](https://neuromatch.io/computational-neuroscience-course/)! We're really excited to bring this course to such a wide and varied audience. We want to make sure every student is able to follow and enjoy the academy. This means you need to know the basics of programming in Python, math and science core concepts. Below 👇 we provide more details for each.
+Welcome to the [Climatematch Academy](https://neuromatch.io/climate-science/)! We're really excited to bring this course to such a wide and varied audience. We want to make sure every student is able to follow and enjoy the academy. This means you need to know the basics of programming in Python, math and science core concepts. Below 👇 we provide more details for each.
 
 ## Contents
 
