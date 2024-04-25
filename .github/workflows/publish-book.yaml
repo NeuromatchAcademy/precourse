@@ -57,12 +57,13 @@ jobs:
       - name: Install dependencies
         run: |
           pip install -r requirements.txt
-          pip install jupyter-book==0.10.2 ghp-import
+          pip install jupyter-book==0.14.0 ghp-import
           pip install jupyter_client==7.3.5  # downgrade jupyter-client to fix hangs
 
       - name: Build the book
         run: |
           python ci/generate_book_precourse.py student
+          jupyter-book toc migrate /home/runner/work/precourse/precourse/book/_toc.yml -o /home/runner/work/precourse/precourse/book/_toc.yml
           ln -s ../tutorials book/tutorials
           jupyter-book build book
           python ci/parse_html_for_errors.py student
