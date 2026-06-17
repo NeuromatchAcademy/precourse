@@ -6,7 +6,7 @@ Neuromatch is committed to creating a collaborative, open, and inclusive teachin
 Participants or affiliates of Neuromatch who are asked to stop any inappropriate behavior are expected to comply immediately. This applies to any Neuromatch events
 and platforms, either online or in-person. If a participant engages in behavior that violates this Code of Conduct, the organizers may warn the offender, ask them to leave the event or platform (without refund), or engage Neuromatch Diversity Committee or Conflict Resolution Office to investigate the Code of Conduct violation and impose appropriate sanctions, decided via majority vote of the relevant committee. If the complaint involves a member of the Diversity Committee or Conflict Resolution Office, that member must recuse themself from the discussion and vote.
 
-Violations of the Code of Conduct should be reported by filling out our [Code of Conduct Violation Reporting form](https://airtable.com/shrezDSthWPlJ4Rpy). Complaints may be made anonymously and are visible only to members of the Neuromatch Conflict Resolution Office.
+Violations of the Code of Conduct should be reported by filling out our [Code of Conduct Violation Reporting form](https://airtable.com/shrezDSthWPlJ4Rpy). Complaints may be made anonymously and are visible only to members of the Neuromatch Conflict Resolution Office. You can see our general [CoC Violation Process](https://github.com/NeuromatchAcademy/precourse/blob/main/coc-investigation-process.md).
 
 ## 1. Be inclusive.
 

@@ -1,4 +1,3 @@
-We encourage you to ask your organization for help in funding your training program. Here is an example message that you could send to your supervisor, department head, or manager to start the conversation. 
+You are encouraged to ask your organization, lab, or university for support. Many of our students have gotten partial or full support. 
 
-
-“I am excited to share that I have been accepted as a student in the 2023 Neuromatch Academy (NMA), a prestigious and intensive three-week summer course in computational neuroscience/deep learning/climatescience. As a participant in this program, I will have the opportunity to learn from and work with some of the leading experts in the field, and gain valuable knowledge of the cutting-edge techniques for modeling and interpreting complex data. However, the registration fee for the course is significant and presents a financial challenge for me. Therefore, I would like to respectfully request funding assistance from our institute/group/lab/organization to cover the cost of my registration fee. I am confident that participation in this program will yield significant long-term benefits for our institute/group/lab/organization and our work. Thank you for considering my request.”
+## [Check out our Tuition Toolkit!](https://docs.neuromatch.io/p/EWjaSzD1pjoHRX/Neuromatch-Tuition-Toolkit)
