@@ -19,7 +19,7 @@ for step in range(1, step_end):
 v_mean = np.mean(v_n, axis=0)
 
 # Compute sample standard deviation (use np.std)
-v_std = np.std(v_n, axis=0)
+v_std = np.std(v_n, axis=0, ddof=1)
 
 # Plot figure
 with plt.xkcd():
